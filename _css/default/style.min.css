@@ -187,12 +187,12 @@ li[data-hover=mega]>a span {
 }
 
 a {
-    color: #a352c8;
+    color: #EA8825;
     text-decoration: none
 }
 
 a:hover {
-    color: #d073fb
+    color: #FFA463
 }
 
 hr {
@@ -364,7 +364,7 @@ header#top .facs.mb span {
 }
 
 header#top .facs.locations span {
-    color: #9041b6
+    color: #F27A00
 }
 
 header#top .facs.locations {
@@ -673,7 +673,7 @@ h2 {
 }
 
 h2 span {
-    color: #a352c8
+    color: #EA8825
 }
 
 h3 {
@@ -958,7 +958,7 @@ p.pop {
 
 .open-times td:nth-of-type(1),
 .plans td:nth-of-type(1) {
-    background-color: #a352c8;
+    background-color: #EA8825;
     text-transform: uppercase;
     font-weight: 700;
     text-align: right;
@@ -967,7 +967,7 @@ p.pop {
 
 .open-times td:nth-of-type(3),
 .plans td:nth-of-type(3) {
-    background-color: #a352c8
+    background-color: #EA8825
 }
 
 .plans {
@@ -988,12 +988,12 @@ p.pop {
 }
 
 .plans td a {
-    color: #d073fb;
+    color: #FF8F40;
     padding: 0 0 0 3px
 }
 
 .plans td.p {
-    background-color: #a352c8;
+    background-color: #EA8825;
     text-align: left;
     font-weight: 400
 }
@@ -1619,8 +1619,8 @@ footer .social-icons a {
 }
 
 footer .social-icons a:hover {
-    color: #a352c8;
-    border: 2px solid #a352c8
+    color: #EA8825;
+    border: 2px solid #EA8825
 }
 
 footer .social-icons .icon-mail-1 {
@@ -1633,7 +1633,7 @@ footer .social-icons .icon-mail-1 {
     text-align: center;
     height: 90px;
     line-height: 6em;
-    border-bottom: 1px solid #a352c8;
+    border-bottom: 1px solid #EA8825;
     overflow: hidden
 }
 
@@ -1694,7 +1694,7 @@ footer .social-icons .icon-mail-1 {
 }
 
 .mbtn:hover {
-    border: 1px solid #a352c8
+    border: 1px solid #EA8825
 }
 
 .extra-mbtn {
@@ -1742,7 +1742,7 @@ footer .social-icons .icon-mail-1 {
 }
 
 .play-video-btn:hover {
-    border: 1px solid #a352c8
+    border: 1px solid #EA8825
 }
 
 .play-video-btn:after {
@@ -1792,7 +1792,7 @@ footer .social-icons .icon-mail-1 {
 }
 
 .schedule-btn:hover {
-    border: 1px solid #a352c8
+    border: 1px solid #EA8825
 }
 
 .schedule-btn:after {
@@ -1843,7 +1843,7 @@ footer .social-icons .icon-mail-1 {
 }
 
 .info-btn:hover {
-    border: 1px solid #a352c8
+    border: 1px solid #EA8825
 }
 
 .info-btn:after {
@@ -1895,7 +1895,7 @@ footer .social-icons .icon-mail-1 {
 
 .megamenu li.active>a,
 .megamenu li.is-active>a {
-    background: rgba(163, 82, 200, .6)
+    background: rgba(234, 136, 37, .6)
 }
 
 .megamenu a {
@@ -1921,7 +1921,7 @@ footer .social-icons .icon-mail-1 {
 }
 
 .megamenu a:hover {
-    background: rgba(163, 82, 200, .6)
+    background: rgba(234, 136, 37, .6)
 }
 
 .megamenu>li {
@@ -2086,7 +2086,7 @@ footer .social-icons .icon-mail-1 {
 }
 
 .prev-class:hover {
-    border: 1px solid #a352c8
+    border: 1px solid #EA8825
 }
 
 .next-class {
@@ -2111,7 +2111,7 @@ footer .social-icons .icon-mail-1 {
 }
 
 .next-class:hover {
-    border: 1px solid #a352c8
+    border: 1px solid #EA8825
 }
 
 .goto {
@@ -2133,7 +2133,7 @@ footer .social-icons .icon-mail-1 {
 }
 
 .goto:hover {
-    border: 1px solid #a352c8
+    border: 1px solid #EA8825
 }
 
 .goto.no:nth-child(1) {
@@ -2238,7 +2238,7 @@ footer .social-icons .icon-mail-1 {
 }
 
 .goto.active {
-    border: 1px solid #a352c8;
+    border: 1px solid #EA8825;
     color: #fff
 }
 
@@ -2442,7 +2442,7 @@ footer .social-icons .icon-mail-1 {
     border: none;
     text-transform: capitalize;
     color: #fff;
-    background: #9041b6;
+    background: #F27A00;
     padding: 15px 30px;
     display: inline-block;
     cursor: pointer;
@@ -2454,7 +2454,7 @@ footer .social-icons .icon-mail-1 {
 .button-27.active,
 .button-27:hover {
     color: #fff;
-    background: #7509a7
+    background: #C96602
 }
 
 .button-27.cta {
@@ -2492,7 +2492,7 @@ footer .social-icons .icon-mail-1 {
 
 .dark .button-27:hover {
     background: #000;
-    border: 1px solid #a352c8
+    border: 1px solid #EA8825
 }
 
 .video-icon-overlay:after,
@@ -2510,8 +2510,8 @@ footer .social-icons .icon-mail-1 {
 
 .video-icon-overlay:hover:after {
     background: rgba(0, 0, 0, .9);
-    border: 1px solid #a352c8;
-    color: #a352c8
+    border: 1px solid #EA8825;
+    color: #EA8825
 }
 
 .video-icon-overlay:after {
@@ -2571,7 +2571,7 @@ footer .social-icons .icon-mail-1 {
 }
 
 .bordered {
-    border: 1px solid #a352c8
+    border: 1px solid #EA8825
 }
 
 .truncate {
@@ -2687,7 +2687,7 @@ footer .social-icons .icon-mail-1 {
 }
 
 .naver.enabled .naver-handle:hover {
-    background: #9041b6
+    background: #F27A00
 }
 
 .naver.open .naver-wrapper {
@@ -2695,7 +2695,7 @@ footer .social-icons .icon-mail-1 {
 }
 
 .naver.open .naver-handle {
-    background: #9041b6
+    background: #F27A00
 }
 
 @media only screen and (min-width:1281px) {

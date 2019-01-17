@@ -74,7 +74,7 @@
 }
 
 .play-video-btn-large:hover {
-    border: 1px solid #a352c8;
+    border: 1px solid #EA8825;
     background: rgba(0, 0, 0, .6)
 }
 
@@ -197,7 +197,7 @@
 .sd-menu a {
     display: block;
     white-space: nowrap;
-    color: #a352c8;
+    color: #EA8825;
     text-align: left;
     padding: .5rem 1.5rem .5rem .65rem
 }
@@ -217,7 +217,7 @@
 }
 
 .megamenu ul {
-    border: 1px solid #a352c8;
+    border: 1px solid #EA8825;
     min-width: 190px;
     background-color: #000;
     opacity: 0;
@@ -256,7 +256,7 @@
 }
 
 .megamenu ul li a:hover {
-    background: #622978
+    background: #D17000
 }
 
 .megamenu ul li a span {
@@ -287,7 +287,7 @@
 .megamenu ul li.break {
     height: 0;
     line-height: 0;
-    border-top: 1px dotted #a352c8;
+    border-top: 1px dotted #EA8825;
     margin: 10px 15px
 }
 
@@ -354,7 +354,7 @@
 }
 
 .cartitemcount {
-    color: #a352c8
+    color: #EA8825
 }
 
 .session-special {
@@ -670,11 +670,11 @@
 .ajax-form h2 {
     margin: 0 0 25px;
     font-size: 2.25rem;
-    color: #a352c8
+    color: #EA8825
 }
 
 .ajax-form h3 {
-    color: #a352c8
+    color: #EA8825
 }
 
 .ajax-form .input-wrap {
@@ -871,7 +871,7 @@
 }
 
 .fancybox-opened .fancybox-skin {
-    border: 1px solid #a352c8
+    border: 1px solid #EA8825
 }
 
 .fancybox-inner,
@@ -1106,7 +1106,7 @@
 
 .custom-pagination a:hover,
 .custom-pagination span.current:hover {
-    border: 1px solid #a352c8
+    border: 1px solid #EA8825
 }
 
 .custom-pagination a.yes span,
@@ -1117,7 +1117,7 @@
 
 .custom-pagination a.active,
 .custom-pagination span.current.active {
-    border: 1px solid #a352c8;
+    border: 1px solid #EA8825;
     color: #fff
 }
 
@@ -1138,7 +1138,7 @@
 
 .custom-pagination span.current {
     background: #000;
-    color: #a352c8
+    color: #EA8825
 }
 
 .no-posts {

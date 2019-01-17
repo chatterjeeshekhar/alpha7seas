@@ -5,7 +5,7 @@
                 <br>
                 <div class="col-items">
                     <article class='ba' id="post-1618">
-                        <h1>Opening Day &#8211; Unit 27 Koh Samui</h1>
+                        <h1>Opening Day &#8211; Alpha 7 Seas</h1>
                         <p> Content Coming Soon [...] </p> <a class="button-27" href="<?php echo $mainUrl;?>blog/events/opening-day-unit-27-koh-samui/">Read The Story</a> </article>
                 </div>
             </div>
@@ -18,8 +18,8 @@
             <div class="inner-content-container">
                 <div class="col-f">
                     <h6>About</h6>
-                    <p>Unit 27 Koh Samui is a dedicated fitness and <strong>weight loss gym</strong> centrally located and ready to help you achieve your strength, conditioning, CrossFit and <a href="/personal-training/">personal training</a> goals.</p>
-                    <p>Unit 27 Koh Samui is part of a much larger group of Thailand based fitness facilities known as the <a href="/unit-27-group/">Unit 27 Group</a>, if you are travelling and want to maintain your training, check out our other fitness facilities in Thailand.</p>
+                    <p>Alpha 7 Seas is a dedicated fitness and <strong>weight loss gym</strong> centrally located and ready to help you achieve your strength, conditioning, CrossFit and <a href="/personal-training/">personal training</a> goals.</p>
+                    <p>Alpha 7 Seas is part of a much larger group of Thailand based fitness facilities known as the <a href="/unit-27-group/">Alpha 7 Seas Group</a>, if you are travelling and want to maintain your training, check out our other fitness facilities in Thailand.</p>
                 </div>
                 <div class="col-f">
                     <h6>Team</h6>
@@ -29,12 +29,12 @@
                 </div>
                 <div class="col-f">
                     <h6>Training</h6>
-                    <p><span>Unit 27</span> <a href="/fitness/" title="Fitness Koh Samui">Fitness</a></p>
-                    <p><span>Unit 27</span> <a href="/weight-loss/" title="Weight Loss Koh Samui">Weight Loss</a></p>
-                    <p><span>Unit 27</span> <a href="/strength-and-conditioning/" title="Strength & Conditioning Koh Samui">Strength &amp; Conditioning</a></p>
-                    <p><span>Unit 27</span> <a href="/flexibility-and-core/" title="Flexibility & Core Koh Samui">Flexibility &amp; Core</a></p>
-                    <p><span>Unit 27</span> <a href="/personal-training/" title="Personal Training Koh Samui">Personal Training</a></p>
-                    <p><span>Unit 27</span> <a href="/facilities/ice-baths/" title="Ice Baths Koh Samui">Ice Baths</a></p>
+                    <p><span>Alpha 7 Seas</span> <a href="/fitness/" title="Fitness Koh Samui">Fitness</a></p>
+                    <p><span>Alpha 7 Seas</span> <a href="/weight-loss/" title="Weight Loss Koh Samui">Weight Loss</a></p>
+                    <p><span>Alpha 7 Seas</span> <a href="/strength-and-conditioning/" title="Strength & Conditioning Koh Samui">Strength &amp; Conditioning</a></p>
+                    <p><span>Alpha 7 Seas</span> <a href="/flexibility-and-core/" title="Flexibility & Core Koh Samui">Flexibility &amp; Core</a></p>
+                    <p><span>Alpha 7 Seas</span> <a href="/personal-training/" title="Personal Training Koh Samui">Personal Training</a></p>
+                    <p><span>Alpha 7 Seas</span> <a href="/facilities/ice-baths/" title="Ice Baths Koh Samui">Ice Baths</a></p>
                 </div>
                 <div class="col-f">
                     <h6>Contact</h6>
@@ -49,15 +49,15 @@
                         <br> Privacy: <a href="/privacy-policy/">Privacy Policy</a>
                         <br> </p>
                     <div class="social-icons">
-                        <a href="https://www.instagram.com/unit27kohsamui/" title="Unit 27 Koh Samui on Instagram" class="social-icon icon-instagram-filled _blank"></a>
-                        <a href="https://www.facebook.com/Unit27Samui/" title="Unit 27 Koh Samui on Facebook" class="social-icon icon-facebook _blank"></a>
-                        <a href="/ajax/?view=contact" title="Email Unit 27 Koh Samui" class="btn-contact social-icon icon-mail-1"></a>
+                        <a href="https://www.instagram.com/alpha7seas/" title="Alpha 7 Seas on Instagram" class="social-icon icon-instagram-filled _blank"></a>
+                        <a href="https://www.facebook.com/alpha7seas/" title="Alpha 7 Seas on Facebook" class="social-icon icon-facebook _blank"></a>
+                        <a href="/ajax/?view=contact" title="Email Alpha 7 Seas" class="btn-contact social-icon icon-mail-1"></a>
                     </div>
                 </div>
             </div>
         </div>
         <div class="copyright">
-            <p>Copyright 2017 - 2018 &copy; Unit 27&trade; Koh Samui, All Rights Reserved</p>
+            <p>Copyright 2017 - 2018 &copy; Alpha 7 Seas&trade;, All Rights Reserved</p>
         </div>
     </footer>
     <script type='text/javascript' src='/_js/default/plugins.min.js'></script>
@@ -78,6 +78,6 @@
             "custom": "0"
         };
         var ratings_mouseover_image = new Image();
-        ratings_mouseover_image.src = "https://kohsamui.unit-27.com/wp-content/plugins/wp-postratings/images/stars/rating_over.gif";; /* ]]> */
+        ratings_mouseover_image.src = "<?php echo $mainUrl;?>/wp-content/plugins/wp-postratings/images/stars/rating_over.gif";; /* ]]> */
     </script>
-    <script type='text/javascript' src='https://kohsamui.unit-27.com/wp-content/plugins/wp-postratings/js/postratings-js.js'></script>
+    <script type='text/javascript' src='/wp-content/plugins/wp-postratings/js/postratings-js.js'></script>

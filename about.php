@@ -29,9 +29,9 @@
     <link type="text/css" rel="stylesheet" href="/_css/default/style.min.css" />
     <link type="image/png" rel="icon" href="/favicon.png" />
     <!--[if lt IE 9]> <link type="text/css" rel="stylesheet" href="/_css/default/ie.css" /> <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script> <![endif]-->
-    <title>Unit 27 &middot; Unit 27 Koh Samui</title>
+    <title>About &middot; Alpha 7 Seas</title>
     <meta name="description" content="Our commitment to you Description Required." />
-    <link rel="canonical" href="<?php echo $mainUrl; ?>/about/" />
+    <link rel="canonical" href="<?php echo $mainUrl; ?>/about.php" />
     <?php include 'files/top.php'; ?>
     <style id='woocommerce-inline-inline-css' type='text/css'>
         .woocommerce form .form-row .required {
@@ -53,10 +53,10 @@
 
 <body class="page-template page-template-page-templates page-template-page_parent page-template-page-templatespage_parent-php page page-id-63 woocommerce-no-js">
     <?php include 'files/header.php'; ?>
-    <div class="splash-wrapper content-container dark "> <img src="/wp-content/uploads/2018/12/koh-samuis-best-fitness-and-weight-loss-gym-1920x1080.jpg" alt="Unit 27" width="1920" height="1080" class="seoimg">
+    <div class="splash-wrapper content-container dark "> <img src="/wp-content/uploads/2018/12/koh-samuis-best-fitness-and-weight-loss-gym-1920x1080.jpg" alt="Alpha 7 Seas" width="1920" height="1080" class="seoimg">
         <div class="splash-content">
             <div class="main-title">
-                <h1>Unit 27</h1> </div>
+                <h1>Alpha 7 Seas</h1> </div>
             <a class="play-video-btn-large fancylink icon-play" href="/ajax/?view=video&amp;id=qBcXk9OfpJg&amp;t=Unit+27" rel="attachment"></a>
         </div>
         <div class="light-down-arrow" id="more-info"></div>
@@ -70,7 +70,7 @@
     </section>
     <aside class="galleries content-container">
         <div class="inner-content-container">
-            <h2 class="sub-title">Opening Day at - Unit 27 Koh Samui</h2>
+            <h2 class="sub-title">Opening Day at - Alpha 7 Seas</h2>
             <p>A few select photos of our Grand Opening. Thanks to all for coming along and supporting us, we had a great time and hope you did too :-) </p>
             <div class="site-widget" data-selector=".gallery" data-flag="gallery" data-galleryid='546111158811661' data-count="50">
                 <div class="gallery"></div>
@@ -80,9 +80,9 @@
     </aside>
     <section class="merchandise content-container dark ">
         <div class="inner-content-container">
-            <h2>Koh Samui Fitness</h2>
-            <p>Unit 27 Koh Samui isn't just another gym, we are Samui's most dedicated fitness organisation and we are committed to getting your training right and your body tight. Don't forget to check out our <a href="/strength-and-conditioning/" title="Strength &amp; Conditioning Training classes at Unit 27 Koh Samui, Thailand">strength &amp; conditioning</a> classes as well as our other unique <a href="/fitness/" title="Fitness training classes at Unit 27 Koh Samui, Thailand">fitness training</a> sessions. </p>
-            <p>We also like to help our clients and customers with advice that matters for your training, check out our Koh Samui fitness blog where we post helpful training tips, weight loss advice, dietary facts and more.</p> <a href="/blog/" class="button-27 cta" title="Unit 27 Koh Samui Fitness Phuket Blog">Visit our Blog</a> </div>
+            <h2>Alpha 7 Fitness</h2>
+            <p>Alpha 7 Seas isn't just another gym, we are Samui's most dedicated fitness organisation and we are committed to getting your training right and your body tight. Don't forget to check out our <a href="/strength-and-conditioning/" title="Strength &amp; Conditioning Training classes at Alpha 7 Seas, Thailand">strength &amp; conditioning</a> classes as well as our other unique <a href="/fitness/" title="Fitness training classes at Alpha 7 Seas, Thailand">fitness training</a> sessions. </p>
+            <p>We also like to help our clients and customers with advice that matters for your training, check out our Koh Samui fitness blog where we post helpful training tips, weight loss advice, dietary facts and more.</p> <a href="/blog/" class="button-27 cta" title="Alpha 7 Seas Fitness Phuket Blog">Visit our Blog</a> </div>
         <div class="light-down-arrow"></div>
     </section>
     <?php include 'files/footer.php'; ?>

@@ -29,8 +29,8 @@
     <link type="text/css" rel="stylesheet" href="/_css/default/style.min.css" />
     <link type="image/png" rel="icon" href="/favicon.png" />
     <!--[if lt IE 9]> <link type="text/css" rel="stylesheet" href="/_css/default/ie.css" /> <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script> <![endif]-->
-    <title>Pricing &amp; Packages &middot; Unit 27 Koh Samui</title>
-    <meta name="description" content="Keeping it simple &amp; affordable Here at Unit 27 we like to keep things simple so you can focus hard on your strength &amp; conditioning training, with that in" />
+    <title>Pricing &amp; Packages &middot; Alpha 7 Seas</title>
+    <meta name="description" content="Keeping it simple &amp; affordable Here at Alpha 7 Seas we like to keep things simple so you can focus hard on your strength &amp; conditioning training, with that in" />
     <link rel="canonical" href="<?php echo $mainUrl;?>pricing/" />
     <?php include 'files/top.php'; ?>
     <style id='woocommerce-inline-inline-css' type='text/css'>
@@ -64,7 +64,7 @@
     <section class="promo content-container dark">
         <div class="inner-content-container no-cta">
             <h2>Keeping it simple &#038; affordable</h2>
-            <p>Here at Unit 27 we like to keep things simple so you can focus hard on your strength &#038; conditioning training, with that in mind we have simple and affordable training packages for you to pick from, ranging from <a href="#session-pricing">session packages</a>, to all inclusive <a href="#inclusive-pricing">boot camp holiday packages</a>, pricing and information below. If you are not interested in a package deal then we always welcome <a href="#walk-in-training">walk in</a> training &#038; use of our facilities. </p>
+            <p>Here at Alpha 7 Seas we like to keep things simple so you can focus hard on your strength &#038; conditioning training, with that in mind we have simple and affordable training packages for you to pick from, ranging from <a href="#session-pricing">session packages</a>, to all inclusive <a href="#inclusive-pricing">boot camp holiday packages</a>, pricing and information below. If you are not interested in a package deal then we always welcome <a href="#walk-in-training">walk in</a> training &#038; use of our facilities. </p>
             <p>Just remember you have to sign in for each session, two hours in advance! We also have discounts for expats on production of valid work permits &#038; we are working to bring even more products into our packages to keep you fit, healthy and happy.</p>
         </div>
         <div class="light-down-arrow"></div>
@@ -73,7 +73,7 @@
         <div class="inner-content-container">
             <br>
             <h2 class="sub-title">Standard Sessions Pricing</h2>
-            <p>Standard packaged sessions may be used at any Unit 27 Strength &amp; Conditioning gyms in Thailand</p>
+            <p>Standard packaged sessions may be used at any Alpha 7 Seas Strength &amp; Conditioning gyms in Thailand</p>
             <table class="plans">
                 <tbody>
                     <tr>
@@ -88,19 +88,19 @@
                             <h2>Premium</h2><span class="price">THB 16,480</span></th>
                     </tr>
                     <tr>
-                        <td>Number of Sessions Included <a href="#" class="_info" title="The number of Unit 27 classes you may attend. For example, if you did two classes on a single day it would count as two sessions.">?</a></td>
+                        <td>Number of Sessions Included <a href="#" class="_info" title="The number of Alpha 7 Seas classes you may attend. For example, if you did two classes on a single day it would count as two sessions.">?</a></td>
                         <td><strong>x 12</strong></td>
                         <td><strong>x 24</strong></td>
                         <td><strong>x 48</strong></td>
                     </tr>
                     <tr>
-                        <td>Unit 27 Singlet <a href="#" class="_info" title="Some packages offer a free Unit 27 Singlet when signing up!">?</a></td>
+                        <td>Alpha 7 Seas Singlet <a href="#" class="_info" title="Some packages offer a free Alpha 7 Seas Singlet when signing up!">?</a></td>
                         <td> - </td>
                         <td>1</td>
                         <td>1</td>
                     </tr>
                     <tr>
-                        <td>Ice Bath <a href="#" class="_info" title="The ice bath is valid the same day you activate a group session. Please note, the ice bath is located at the Unit 27 facility">?</a></td>
+                        <td>Ice Bath <a href="#" class="_info" title="The ice bath is valid the same day you activate a group session. Please note, the ice bath is located at the Alpha 7 Seas facility">?</a></td>
                         <td><span class="tick"></span></td>
                         <td><span class="tick"></span></td>
                         <td><span class="tick"></span></td>
@@ -122,7 +122,7 @@
     <section class="promo content-container dark">
         <div class="inner-content-container no-cta">
             <h2>Resident Trooper Discount</h2>
-            <p>The <strong>Resident Trooper</strong> discount is available for people who work permanently on Koh Samui and wish to train with us at Unit 27. This is considered a workers expat discount and is only available to customers who produce a <strong>valid work permit</strong> for Thailand. </p>
+            <p>The <strong>Resident Trooper</strong> discount is available for people who work permanently on Mumbai and wish to train with us at Alpha 7 Seas. This is considered a workers expat discount and is only available to customers who produce a <strong>valid work permit</strong> for Thailand. </p>
         </div>
         <div class="light-down-arrow"></div>
     </section>
@@ -130,7 +130,7 @@
         <div class="inner-content-container">
             <br>
             <h2 class="sub-title">Resident Trooper Pricing</h2>
-            <p>Sessions for Resident Trooper packages may only be used at the Unit 27 Koh Samui facility.</p>
+            <p>Sessions for Resident Trooper packages may only be used at the Alpha 7 Seas facility.</p>
             <table class="plans">
                 <tbody>
                     <tr>
@@ -148,12 +148,12 @@
                         <td><strong> Unlimited</strong></td>
                     </tr>
                     <tr>
-                        <td>Unit 27 Singlet <a href="#" class="_info" title="Some packages offer a free Unit 27 Singlet when signing up!">?</a></td>
+                        <td>Alpha 7 Seas Singlet <a href="#" class="_info" title="Some packages offer a free Alpha 7 Seas Singlet when signing up!">?</a></td>
                         <td> - </td>
                         <td> - </td>
                     </tr>
                     <tr>
-                        <td>Ice Bath <a href="#" class="_info" title="The ice bath is valid the same day you activate a group session. Please note, the ice bath is located at the Unit 27 facility">?</a></td>
+                        <td>Ice Bath <a href="#" class="_info" title="The ice bath is valid the same day you activate a group session. Please note, the ice bath is located at the Alpha 7 Seas facility">?</a></td>
                         <td><span class="tick"></span></td>
                         <td><span class="tick"></span></td>
                     </tr>
@@ -173,7 +173,7 @@
     <section class="promo content-container dark">
         <div class="inner-content-container no-cta">
             <h2>Daytime Pricing</h2>
-            <p>Short visits to Koh Samui are no a problem, if the session and all inclusive package plans are not going to work for you, than we have pricing for day visits and one time sessions also available, please see the below pricing guide and FAQ! Our classes require advance booking, so make sure to turn up early as class space is limited.</p>
+            <p>Short visits to Mumbai are no a problem, if the session and all inclusive package plans are not going to work for you, than we have pricing for day visits and one time sessions also available, please see the below pricing guide and FAQ! Our classes require advance booking, so make sure to turn up early as class space is limited.</p>
         </div>
         <div class="light-down-arrow"></div>
     </section>
@@ -181,7 +181,7 @@
         <div class="inner-content-container">
             <br>
             <h2 class="sub-title">Walk In &amp; Day Visit Pricing</h2>
-            <p>If your stay in Koh Samui is a short holiday we have these daily training options available for you.</p>
+            <p>If your stay in Mumbai is a short holiday we have these daily training options available for you.</p>
             <br>
             <table class="plans">
                 <tbody>
@@ -248,14 +248,14 @@
             <br>
             <br>
             <h2 class="sub-title ">Your Training Agreement</h2>
-            <p>When training with us at Unit 27 Koh Samui you agree to the following terms &amp; conditions</p>
+            <p>When training with us at Alpha 7 Seas you agree to the following terms &amp; conditions</p>
             <br>
             <table class="plans">
                 <tr>
-                    <td class="b">I will not hold the Unit 27 Group liable for any pre-existing injuries or medical condition, which may be exacerbated if I participate or which may affect my heart if I participate.</td>
+                    <td class="b">I will not hold the Alpha 7 Seas Group liable for any pre-existing injuries or medical condition, which may be exacerbated if I participate or which may affect my heart if I participate.</td>
                 </tr>
                 <tr>
-                    <td class="p">I will not hold the Unit 27 Group liable for any injury, loss or damage, which may be sustained as a result of participating.</td>
+                    <td class="p">I will not hold the Alpha 7 Seas Group liable for any injury, loss or damage, which may be sustained as a result of participating.</td>
                 </tr>
                 </tbody>
             </table>
@@ -269,9 +269,9 @@
     </div>
     <section class="merchandise content-container dark ">
         <div class="inner-content-container">
-            <h2>Koh Samui Fitness</h2>
-            <p>Unit 27 Koh Samui isn't just another gym, we are Samui's most dedicated fitness organisation and we are committed to getting your training right and your body tight. Don't forget to check out our <a href="/strength-and-conditioning/" title="Strength &amp; Conditioning Training classes at Unit 27 Koh Samui, Thailand">strength &amp; conditioning</a> classes as well as our other unique <a href="/fitness/" title="Fitness training classes at Unit 27 Koh Samui, Thailand">fitness training</a> sessions. </p>
-            <p>We also like to help our clients and customers with advice that matters for your training, check out our Koh Samui fitness blog where we post helpful training tips, weight loss advice, dietary facts and more.</p> <a href="/blog/" class="button-27 cta" title="Unit 27 Koh Samui Fitness Phuket Blog">Visit our Blog</a> </div>
+            <h2>Mumbai Fitness</h2>
+            <p>Alpha 7 Seas isn't just another gym, we are Samui's most dedicated fitness organisation and we are committed to getting your training right and your body tight. Don't forget to check out our <a href="/strength-and-conditioning/" title="Strength &amp; Conditioning Training classes at Alpha 7 Seas, Thailand">strength &amp; conditioning</a> classes as well as our other unique <a href="/fitness/" title="Fitness training classes at Alpha 7 Seas, Thailand">fitness training</a> sessions. </p>
+            <p>We also like to help our clients and customers with advice that matters for your training, check out our Mumbai fitness blog where we post helpful training tips, weight loss advice, dietary facts and more.</p> <a href="/blog/" class="button-27 cta" title="Alpha 7 Seas Fitness Phuket Blog">Visit our Blog</a> </div>
         <div class="light-down-arrow"></div>
     </section>
     <?php include 'files/footer.php'; ?>

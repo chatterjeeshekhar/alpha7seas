@@ -1,2 +1,2 @@
 <?php
-$mainUrl = "https://kohsamui.unit-27.com/";
+$mainUrl = "http://www.alpha7seas.com/";
