@@ -64,13 +64,16 @@
     <section class="promo content-container dark">
         <div class="inner-content-container no-cta">
             <h2>Our commitment to you</h2>
-            <p>Description Required.</p>
+            <p>We like the ‘Old School’ approach here and believe that the customer ALWAYS comes first. You will always be treated in a respectful, polite, professional manner. We exist to to serve you, not the other way round. Our Facility is full with brand new, specialised equipment – the selection of which you will not find anywhere else in Mumbai.<br>
+<br>Our classes are ALWAYS limited in size, ensuring that the instructor/client ration is always optimum and you receive continual support and motivation. Our sessions concentrate on power, mobility, strength and above all correct form & injury prevention.<br>
+<br>Our facility is kept spotlessly clean and all equipment is sanitised after every session.
+</p>
         </div>
         <div class="light-down-arrow"></div>
     </section>
     <aside class="galleries content-container">
         <div class="inner-content-container">
-            <h2 class="sub-title">Opening Day at - Alpha 7 Seas</h2>
+            <h2 class="sub-title">The Core Team</h2>
             <p>A few select photos of our Grand Opening. Thanks to all for coming along and supporting us, we had a great time and hope you did too :-) </p>
             <div class="site-widget" data-selector=".gallery" data-flag="gallery" data-galleryid='546111158811661' data-count="50">
                 <div class="gallery"></div>

@@ -67,8 +67,7 @@
     <section class="promo content-container dark">
         <div class="inner-content-container">
             <h2>Go Hard Or Go Home</h2>
-            <p>Alpha 7 Seas has quickly become the regions most specialised and trusted <a href="/weight-loss/">weight loss</a>, fitness training and <a href="/strength-and-conditioning/">strength &amp; conditioning</a> gym. All Alpha 7 Seas classes are created exclusively to close the gap between a gym membership and personal training. They are the ultimate form of dedicated close quarters <a href="/fitness/">fitness training</a> to help you reach your athletic goals safely, easily and push further than you ever thought possible.</p>
-            <p>Alpha 7 Seas is not just for hard core athlete's either, you'll benefit extensively from our customised class structure where beginner to advanced level is only defined by your maximum effort given on the day. That is why our motto is <strong>"Go Hard, or Go Home"</strong> because you won't catch anyone here at Alpha 7 Seas slacking off or taking selfies during training sessions!</p> <a href="/training/" class="button-27 cta">Training options</a> </div>
+            <p>Alpha 7 Seas is a custom designed, specialised, weight loss & conditioning facility created to fill the need for a scientifically proven full fitness gym in Mumbai, India. The combination of our fully qualified instructors plus state of the art equipment & training, provide for structured and safe development toward meaningful physical, mental and social transformations.</p>            <p>Whether your goal is to get fit, lose weight, cut up for competition, pack on muscle, or even improve your specific sports performance levels (whilst making some life long friends along the way) we have everything you are ever going to need all under one roof!</p> <a href="/pricing.php" class="button-27 cta">Pricing and Packages</a> </div>
         <div class="light-down-arrow"></div>
     </section>
     <section class="training content-container">
@@ -139,8 +138,7 @@
     <section class="membership content-container dark">
         <div class="inner-content-container">
             <h2>Pricing &amp; Packages</h2>
-            <p> Good strength and conditioning training shouldn't cost you an arm and a leg. Here at Alpha 7 Seas we want to help make your arms and legs stronger with our dedicated <a href="/weight-loss/" title="Weight Loss Koh Samui">weight loss</a> and advanced <a href="/fitness/" title="Fitness Koh Samui">fitness training</a> sessions. Check out our session packages pricing and pick the one that is right for you when visiting, working, living or holidaying on beautiful Koh Samui, Mumbai. </p>
-            <p>Alpha 7 Seas session packages do not contain any hidden fee's or charges. You can even sign up before you turn up by accessing our <a href="http://www.unit-27booking.com/" class="_blank">Alpha 7 Seas booking app</a> and securing your spots before the daily classes fill up completely. Advanced bookings are required for all classes as spots are limited for each session.</p> <a href="/pricing/" class="button-27 cta">View pricing</a> </div>
+            <p>Good strength and conditioning training shouldn't cost you an arm and a leg. Here at Alpha 7 Seas, we want to help make your arms and legs stronger with our dedicated weight loss and advanced fitness training sessions.</p> <a href="/pricing.php" class="button-27 cta">View pricing</a> </div>
         <div class="light-down-arrow"></div>
     </section>
     <aside class="testimonials content-container dark faux-mask">
