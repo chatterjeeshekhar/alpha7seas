@@ -69,6 +69,30 @@
                             <meta property="position" content="1">
                             </span><span class="navxt-seperator">&gt;</span>Contact Us </div>
                     </div>
+                    <h2>Reach out to us</h2>
+                    <form class="form-style">
+                        <input type="text" placeholder="Your name"><br>
+                        <input type="email" placeholder="Your email"><br>
+                        <select>
+                            <option>-- Select Purpose --</option>
+                            <option value="1">Membership Inquiry</option>
+                            <option value="2">Business Inquiry</option>
+                            <option value="2">Franchise Inquiry</option>
+                        </select><br>
+                        <textarea rows="6" placeholder="Enter message" ></textarea>
+                        <br>
+                        <input type="submit" class="button-27" style="color: white" value="Submit">
+                    </form>
+                    <style type="text/css">
+                        .form-style input, textarea, select {
+                                width: 70%;
+                                padding: 12px 10px;
+                                margin: 8px 0;
+                                box-sizing: border-box;
+                                color: grey;
+                                border-radius:0.1;
+                        }
+                    </style>
                     <h2>Contact Alpha 7 Seas</h2>
                     <p>If you have questions about our training and fitness classes, facilities, pricing or any other general inquiry, please contact us via the following options so that one of our helpful customer service staff can get back to you and help you pick the training that is right for you.</p>
                     <p>Phone: +91.86528.36777 / 90043.06777
@@ -79,11 +103,7 @@
                         <a href="https://www.facebook.com/alpha7seas/" title="Alpha 7 Seas on Facebook" class="social-icon icon-facebook _blank"></a>
                         <a href="/ajax/?view=contact" title="Email Alpha 7 Seas" class="btn-contact social-icon icon-mail-1"></a>
                     </div>
-                    <h3 id="map">Drop by</h3>
-                    <div id="attachment_1510" class="wp-caption alignnone">
-                        <a class="fancylink " data-fancybox-group="gallery" href="/wp-content/uploads/2018/11/find-unit-27-koh-samui-map.png"><img src="/wp-content/uploads/2018/11/find-unit-27-koh-samui-map.png" alt="Finding Alpha 7 Seas" width="800" height="602" class="size-full wp-image-1510" srcset="/wp-content/uploads/2018/11/find-unit-27-koh-samui-map.png 800w, /wp-content/uploads/2018/11/find-unit-27-koh-samui-map-300x226.png 300w, /wp-content/uploads/2018/11/find-unit-27-koh-samui-map-768x578.png 768w, /wp-content/uploads/2018/11/find-unit-27-koh-samui-map-780x587.png 780w, /wp-content/uploads/2018/11/find-unit-27-koh-samui-map-600x452.png 600w" sizes="(max-width: 800px) 100vw, 800px" /></a>
-                        <p class="wp-caption-text">Finding Alpha 7 Seas</p>
-                    </div>
+                    
                     <p>Mailing Address: <a rel="nofollow" href="#map">Shop No.1, C Wing, Platinum Heights, Mhada Junction, Andheri West, Near Versova Telephone Exchange, Mumbai 400053, India</a></p>
                     <div class="rating-container">
                         <div class="rating-wrapper">

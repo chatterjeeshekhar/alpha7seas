@@ -69,7 +69,7 @@
         </div>
         <div class="light-down-arrow"></div>
     </section>
-    <div class="cms content-container" id="session-pricing">
+    <!--<div class="cms content-container" id="session-pricing">
         <div class="inner-content-container">
             <br>
             <h2 class="sub-title">Standard Sessions Pricing</h2>
@@ -125,7 +125,7 @@
             <p>The <strong>Resident Trooper</strong> discount is available for people who work permanently on Mumbai and wish to train with us at Alpha 7 Seas. This is considered a workers expat discount and is only available to customers who produce a <strong>valid work permit</strong> for Thailand. </p>
         </div>
         <div class="light-down-arrow"></div>
-    </section>
+    </section>-->
     <div class="cms content-container" id="session-pricing">
         <div class="inner-content-container">
             <br>
@@ -138,29 +138,33 @@
                             <br>60 seconds. No hidden fees.
                             <br>Cancel at any time.</th>
                         <th>
-                            <h2>1 Month</h2><span class="price">THB 3,000</span></th>
+                            <h2>Monthly</h2></th>
                         <th>
-                            <h2>3 Months</h2><span class="price">THB 8,000</span></th>
+                            <h2>Quaterly</h2></th>
+                        <th>
+                            <h2>Half-yearly</h2></th>
+                        <th>
+                            <h2>Yearly</h2></span></th>        
                     </tr>
                     <tr>
-                        <td>Number of Sessions Included <a href="#" class="_info" title="Work permit or visa must be provided upon joining process">?</a></td>
-                        <td><strong> Unlimited</strong></td>
-                        <td><strong> Unlimited</strong></td>
+                        <td>Gym Membership <a href="#" class="_info" title="Work permit or visa must be provided upon joining process">?</a></td>
+                        <th><a href="http://www.unit-27booking.com">Sign Up Now</a></th>
+                        <th><a href="http://www.unit-27booking.com">Sign Up Now</a></th>
+                        <th><a href="http://www.unit-27booking.com">Sign Up Now</a></th>
+                        <th><a href="http://www.unit-27booking.com">Sign Up Now</a></th>
                     </tr>
                     <tr>
-                        <td>Alpha 7 Seas Singlet <a href="#" class="_info" title="Some packages offer a free Alpha 7 Seas Singlet when signing up!">?</a></td>
-                        <td> - </td>
-                        <td> - </td>
+                        <td>Personal Training <a href="#" class="_info" title="Some packages offer a free Alpha 7 Seas Singlet when signing up!">?</a></td>
+                        <th><a href="http://www.unit-27booking.com">Sign Up Now</a></th>
+                        <th><a href="http://www.unit-27booking.com">Sign Up Now</a></th>
+                        <th><a href="http://www.unit-27booking.com">Sign Up Now</a></th>
+                        <th><a href="http://www.unit-27booking.com">Sign Up Now</a></th>
                     </tr>
                     <tr>
-                        <td>Ice Bath <a href="#" class="_info" title="The ice bath is valid the same day you activate a group session. Please note, the ice bath is located at the Alpha 7 Seas facility">?</a></td>
-                        <td><span class="tick"></span></td>
-                        <td><span class="tick"></span></td>
+                        <th colspan="5"></th>
                     </tr>
                     <tr>
-                        <th></th>
-                        <th><a class="button-27 square _blank" href="http://www.unit-27booking.com">Sign Up Now</a></th>
-                        <th><a class="button-27 square _blank" href="http://www.unit-27booking.com">Sign Up Now</a></th>
+                        <th colspan="5"><a class="button-27 square _blank" href="http://www.unit-27booking.com">Book a trial</a></th>
                     </tr>
                 </tbody>
             </table>

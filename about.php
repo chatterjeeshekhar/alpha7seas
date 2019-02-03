@@ -75,9 +75,47 @@
         <div class="inner-content-container">
             <h2 class="sub-title">The Core Team</h2>
             <p>A few select photos of our Grand Opening. Thanks to all for coming along and supporting us, we had a great time and hope you did too :-) </p>
-            <div class="site-widget" data-selector=".gallery" data-flag="gallery" data-galleryid='546111158811661' data-count="50">
-                <div class="gallery"></div>
+            <br>
+            <div class="col-items">
+                <div class="col-res ">
+                    <article class="snippet" style="text-align:center">
+                        <a>
+                            <img src="_images\team\01.png" alt="Increased Strength And Stamina Alpha 7 Seas India" width="250" height="250"><br>
+                            <h4>Vedant Thapa - Co Founder</h4></a>
+                    </article>
+                </div><div class="col-res ">
+                    <article class="snippet" style="text-align:center">
+                        <a>
+                            <img src="_images\team\02.png" alt="Increased Strength And Stamina Alpha 7 Seas India" width="250" height="250"><br>
+                            <h4>Divya Chheda - Head Coach</h4></a>
+                    </article>
+                </div><div class="col-res ">
+                    <article class="snippet" style="text-align:center">
+                        <a>
+                            <img src="_images\team\03.png" alt="Increased Strength And Stamina Alpha 7 Seas India" width="250" height="250"><br>
+                            <h4>Janshruth Thapa - Co Founder</h4></a>
+                    </article>
+                </div><div class="col-res ">
+                    <article class="snippet" style="text-align:center">
+                        <a>
+                            <img src="_images\team\04.png" alt="Increased Strength And Stamina Alpha 7 Seas India" width="250" height="250"><br>
+                            <h4>Ashish Kamath - Co Founder</h4></a>
+                    </article>
+                </div><div class="col-res ">
+                    <article class="snippet" style="text-align:center">
+                        <a>
+                            <img src="_images\team\05.png" alt="Increased Strength And Stamina Alpha 7 Seas India" width="250" height="250"><br>
+                            <h4>Rutwik Pathare - Co Founder</h4></a>
+                    </article>
+                </div><div class="col-res ">
+                    <article class="snippet" style="text-align:center">
+                        <a>
+                            <img src="_images\team\06.png" alt="Increased Strength And Stamina Alpha 7 Seas India" width="250" height="250"><br>
+                            <h4>R S Chindakar - Co Founder</h4></a>
+                    </article>
+                </div>
             </div>
+            <br> </div>
             <div class="dark-down-arrow"></div>
         </div>
     </aside>
