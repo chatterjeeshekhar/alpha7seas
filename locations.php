@@ -26,8 +26,8 @@
     </script>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width">
-    <link type="text/css" rel="stylesheet" href="/_css/default/style.min.css" />
-    <link type="image/png" rel="icon" href="/favicon.png" />
+    <link type="text/css" rel="stylesheet" href="_css/default/style.min.css" />
+    <link type="image/png" rel="icon" href="favicon.png" />
     <!--[if lt IE 9]> <link type="text/css" rel="stylesheet" href="/_css/default/ie.css" /> <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script> <![endif]-->
     <title>Locations &middot; Alpha 7 Seas</title>
     <meta name="description" content="Two Alpha 7 Seas Locations, Twice The Awesome Alpha 7 Seas - Total Conditioning now has two main locations in India. One in Mumbai, and one in Mumbai, each" />
@@ -38,9 +38,9 @@
             visibility: visible;
         }
     </style>
-    <script type='text/javascript' src='/_js/jquery.min.js'></script>
-    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd" />
-    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml" />
+    <script type='text/javascript' src='_js/jquery.min.js'></script>
+    <link rel="EditURI" type="application/rsd+xml" title="RSD" href="xmlrpc.php?rsd" />
+    <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="wp-includes/wlwmanifest.xml" />
     <noscript>
         <style>
             .woocommerce-product-gallery {

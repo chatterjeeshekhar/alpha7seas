@@ -20,4 +20,4 @@
     <script type='application/ld+json'>{"@context":"https:\/\/schema.org","@type":"Organization","url":"https:\/\/www.alpha7seas.com\/","sameAs":["https:\/\/www.facebook.com\/alpha7seas","https:\/\/www.instagram.com\/alpha7seas\/","https:\/\/twitter.com\/OfficialUnit27"],"@id":"https:\/\/www.alpha7seas.com\/#organization","name":"Alpha 7 Seas","logo":"https:\/\/www.alpha7seas.com\/wp-content\/uploads\/2015\/05\/unit-27.jpg"}</script>
     <link rel='dns-prefetch' href='https://s.w.org' />
     <link rel="alternate" type="application/rss+xml" title="Alpha 7 Seas &raquo; Alpha 7 Seas Mission Statement Comments Feed" href="/mission/feed/" />
-    <link rel='stylesheet' id='extra_css-css' href='/_css/default/extra.min.css' type='text/css' media='all' />
+    <link rel='stylesheet' id='extra_css-css' href='_css/default/extra.min.css' type='text/css' media='all' />

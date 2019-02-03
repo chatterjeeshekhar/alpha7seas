@@ -23,18 +23,18 @@
                 </div>
                 <div class="col-f">
                     <h6>Team</h6>
-                    <p><span>Rob Hallam</span> <a href="/team/rob-hallam/">CEO</a></p>
-                    <p><span>Ryan Fryer</span> <a href="/team/ryan-fryer/">General Manager</a></p>
-                    <p><span>Dayle Hallam</span> <a href="/team/dayle-hallam/">Chief Instructor</a></p>
+                    <p><span>Rob Hallam</span> <a href="team/rob-hallam/">CEO</a></p>
+                    <p><span>Ryan Fryer</span> <a href="team/ryan-fryer/">General Manager</a></p>
+                    <p><span>Dayle Hallam</span> <a href="team/dayle-hallam/">Chief Instructor</a></p>
                 </div>
                 <div class="col-f">
                     <h6>Training</h6>
-                    <p><span>Alpha 7 Seas</span> <a href="/fitness/" title="Fitness Koh Samui">Fitness</a></p>
-                    <p><span>Alpha 7 Seas</span> <a href="/weight-loss/" title="Weight Loss Koh Samui">Weight Loss</a></p>
-                    <p><span>Alpha 7 Seas</span> <a href="/strength-and-conditioning/" title="Strength & Conditioning Koh Samui">Strength &amp; Conditioning</a></p>
-                    <p><span>Alpha 7 Seas</span> <a href="/flexibility-and-core/" title="Flexibility & Core Koh Samui">Flexibility &amp; Core</a></p>
-                    <p><span>Alpha 7 Seas</span> <a href="/personal-training/" title="Personal Training Koh Samui">Personal Training</a></p>
-                    <p><span>Alpha 7 Seas</span> <a href="/facilities/ice-baths/" title="Ice Baths Koh Samui">Ice Baths</a></p>
+                    <p><span>Alpha 7 Seas</span> <a href="fitness/" title="Fitness Koh Samui">Fitness</a></p>
+                    <p><span>Alpha 7 Seas</span> <a href="weight-loss/" title="Weight Loss Koh Samui">Weight Loss</a></p>
+                    <p><span>Alpha 7 Seas</span> <a href="strength-and-conditioning/" title="Strength & Conditioning Koh Samui">Strength &amp; Conditioning</a></p>
+                    <p><span>Alpha 7 Seas</span> <a href="flexibility-and-core/" title="Flexibility & Core Koh Samui">Flexibility &amp; Core</a></p>
+                    <p><span>Alpha 7 Seas</span> <a href="personal-training/" title="Personal Training Koh Samui">Personal Training</a></p>
+                    <p><span>Alpha 7 Seas</span> <a href="facilities/ice-baths/" title="Ice Baths Koh Samui">Ice Baths</a></p>
                 </div>
                 <div class="col-f">
                     <h6>Contact</h6>
@@ -44,14 +44,14 @@
                         <br>
                         <br> Phone: +66 (0) 54 906 5530
                         <br> Email:
-                        <a class="btn-contact email-text" href="/ajax/?view=contact"></a>
+                        <a class="btn-contact email-text" href="ajax/?view=contact"></a>
                         <br> Reviews: <a href="http://www.tripadvisor.in/Attraction_Review-g1389361-d5823176-Reviews-Unit_27-Chalong_Phuket_Town_Phuket.html" class="_blank">Trip Advisor</a>
-                        <br> Privacy: <a href="/privacy-policy/">Privacy Policy</a>
+                        <br> Privacy: <a href="privacy-policy/">Privacy Policy</a>
                         <br> </p>
                     <div class="social-icons">
                         <a href="https://www.instagram.com/alpha7seas/" title="Alpha 7 Seas on Instagram" class="social-icon icon-instagram-filled _blank"></a>
                         <a href="https://www.facebook.com/alpha7seas/" title="Alpha 7 Seas on Facebook" class="social-icon icon-facebook _blank"></a>
-                        <a href="/ajax/?view=contact" title="Email Alpha 7 Seas" class="btn-contact social-icon icon-mail-1"></a>
+                        <a href="ajax/?view=contact" title="Email Alpha 7 Seas" class="btn-contact social-icon icon-mail-1"></a>
                     </div>
                 </div>
             </div>
@@ -60,10 +60,10 @@
             <p>Copyright 2017 - 2018 &copy; Alpha 7 Seas&trade;, All Rights Reserved</p>
         </div>
     </footer>
-    <script type='text/javascript' src='/_js/default/plugins.min.js'></script>
-    <script type='text/javascript' src='/_js/jquery.fancybox.min.js'></script>
-    <script type='text/javascript' src='/_js/default/scripts.min.js'></script>
-    <script type='text/javascript' src='/_js/init-wp.min.js'></script>
+    <script type='text/javascript' src='_js/default/plugins.min.js'></script>
+    <script type='text/javascript' src='_js/jquery.fancybox.min.js'></script>
+    <script type='text/javascript' src='_js/default/scripts.min.js'></script>
+    <script type='text/javascript' src='_js/init-wp.min.js'></script>
     <script type='text/javascript'>
         /* <![CDATA[ */
         var ratingsL10n = {
@@ -80,4 +80,4 @@
         var ratings_mouseover_image = new Image();
         ratings_mouseover_image.src = "<?php echo $mainUrl;?>/wp-content/plugins/wp-postratings/images/stars/rating_over.gif";; /* ]]> */
     </script>
-    <script type='text/javascript' src='/wp-content/plugins/wp-postratings/js/postratings-js.js'></script>
+    <script type='text/javascript' src='wp-content/plugins/wp-postratings/js/postratings-js.js'></script>

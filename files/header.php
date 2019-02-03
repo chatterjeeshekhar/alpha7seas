@@ -18,29 +18,26 @@
                 <div class="nav-wrapper">
                     <nav>
                         <ul class="megamenu">
-                            <li data-hover="mega" <?php if(basename($_SERVER['PHP_SELF'])=="training.php"){echo 'class="active"';} ?>> <a href="/training.php">Training </a>
+                            <li data-hover="mega" <?php if(basename($_SERVER['PHP_SELF'])=="training.php"){echo 'class="active"';} ?>> <a href="training.php">Training </a>
                                 
                             </li>
-                            <li class="nav-sessions "> <a href="/sessions/">Sessions <span class="drop"></span></a> </li>
+                            <li class="nav-sessions "> <a href="sessions/">Sessions <span class="drop"></span></a> </li>
                             
-                            <li class="nav-pricing <?php if(basename($_SERVER['PHP_SELF'])=="pricing.php"){echo 'active';} ?>"> <a href="/pricing.php">Pricing</a> </li>
-                            <li class="nav-blog "> <a href="/blog/">Blog </a>
-                                <ul class="level-2 mega">
-                                    <li><a href="/blog/events/">Events <span>(1)</span></a></li>
-                                </ul>
+                            <li class="nav-pricing <?php if(basename($_SERVER['PHP_SELF'])=="pricing.php"){echo 'active';} ?>"> <a href="pricing.php">Pricing</a> </li>
+                            <li class="nav-blog "> <a href="blog/">Blog </a>
                             </li>
-                            <li data-hover="mega" <?php if(basename($_SERVER['PHP_SELF'])=="about.php" || basename($_SERVER['PHP_SELF'])=="locations.php" || basename($_SERVER['PHP_SELF'])=="team.php" || basename($_SERVER['PHP_SELF'])=="mission.php"){echo 'class="active"';} ?>> <a href="/about.php">About <span class="drop"></span></a>
+                            <li data-hover="mega" <?php if(basename($_SERVER['PHP_SELF'])=="about.php" || basename($_SERVER['PHP_SELF'])=="locations.php" || basename($_SERVER['PHP_SELF'])=="team.php" || basename($_SERVER['PHP_SELF'])=="mission.php"){echo 'class="active"';} ?>> <a href="about.php">About <span class="drop"></span></a>
                                 <ul class="level-2 mega">
-                                    <li <?php if(basename($_SERVER['PHP_SELF'])=="team.php"){echo 'class="active"';} ?>><a href="/team.php">The Team</a></li>
-                                    <li <?php if(basename($_SERVER['PHP_SELF'])=="mission.php"){echo 'class="active"';} ?>><a href="/mission.php">The Mission</a></li>
+                                    <li <?php if(basename($_SERVER['PHP_SELF'])=="team.php"){echo 'class="active"';} ?>><a href="team.php">The Team</a></li>
+                                    <li <?php if(basename($_SERVER['PHP_SELF'])=="mission.php"){echo 'class="active"';} ?>><a href="mission.php">The Mission</a></li>
                                     <li class="break"></li>
-                                    <li <?php if(basename($_SERVER['PHP_SELF'])=="locations.php"){echo 'class="active"';} ?>><a href="/locations.php">Locations</a></li>
+                                    <li <?php if(basename($_SERVER['PHP_SELF'])=="locations.php"){echo 'class="active"';} ?>><a href="locations.php">Locations</a></li>
                                  
                                     
                                 </ul>
                             </li>
                             <li class="nav-email<?php if(basename($_SERVER['PHP_SELF'])=="contact.php"){echo ' active';} ?>">
-                                <a href="/contact.php" class="btn-contact2 icon-mail-1"></a>
+                                <a href="contact.php" class="btn-contact2 icon-mail-1"></a>
                             </li>
                         </ul>
                     </nav>

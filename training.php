@@ -26,8 +26,8 @@
     </script>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
     <meta name="viewport" content="width=device-width">
-    <link type="text/css" rel="stylesheet" href="/_css/default/style.min.css" />
-    <link type="image/png" rel="icon" href="/favicon.png" />
+    <link type="text/css" rel="stylesheet" href="_css/default/style.min.css" />
+    <link type="image/png" rel="icon" href="favicon.png" />
     <!--[if lt IE 9]> <link type="text/css" rel="stylesheet" href="/_css/default/ie.css" /> <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script> <![endif]-->
     <title>Training, Mumbai, India &middot; Alpha 7 Seas</title>
     <meta name="description" content="Alpha 7 Seas - Strength &amp; Conditioning Description Required" />
@@ -38,7 +38,7 @@
             visibility: visible;
         }
     </style>
-    <script type='text/javascript' src='/_js/jquery.min.js'></script>
+    <script type='text/javascript' src='_js/jquery.min.js'></script>
     <link rel="EditURI" type="application/rsd+xml" title="RSD" href="/xmlrpc.php?rsd" />
     <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="/wp-includes/wlwmanifest.xml" />
     <noscript>
