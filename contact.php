@@ -1,4 +1,17 @@
-<?php include 'files/main.php'; ?>
+<?php include 'files/main.php'; include 'files/sendmail.php'; ?>
+<?php
+$d = $_POST;
+if($d['contact']==1){
+    $name = $d['name'];
+    $type = $d['type'];
+    $email = $d['email'];
+    $message = $d['message'];
+    if(sendSMTP($name, $type, $email, $message)){
+        
+    }
+}
+
+?>
 <!DOCTYPE html>
 <!--[if IE 7]> <html class="ie ie7" lang="en-US" prefix="og: http://ogp.me/ns#"> <![endif]-->
 <!--[if IE 8]> <html class="ie ie8" lang="en-US" prefix="og: http://ogp.me/ns#"> <![endif]-->
@@ -70,18 +83,18 @@
                             </span><span class="navxt-seperator">&gt;</span>Contact Us </div>
                     </div>
                     <h2>Reach out to us</h2>
-                    <form class="form-style">
-                        <input type="text" placeholder="Your name"><br>
-                        <input type="email" placeholder="Your email"><br>
-                        <select>
+                    <form class="form-style" method="post">
+                        <input type="text" name="name" placeholder="Your name"><br>
+                        <input type="email" name="email" placeholder="Your email"><br>
+                        <select name="type">
                             <option>-- Select Purpose --</option>
                             <option value="1">Membership Inquiry</option>
                             <option value="2">Business Inquiry</option>
                             <option value="2">Franchise Inquiry</option>
                         </select><br>
-                        <textarea rows="6" placeholder="Enter message" ></textarea>
+                        <textarea rows="6" name="message" placeholder="Enter message" ></textarea>
                         <br>
-                        <input type="submit" class="button-27" style="color: white" value="Submit">
+                        <input type="submit" class="button-27" style="color: white" value="1" name="contact">
                     </form>
                     <style type="text/css">
                         .form-style input, textarea, select {
