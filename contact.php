@@ -66,7 +66,7 @@ if($d['contact']==1){
 
 <body class="page-template-default page page-id-1432 woocommerce-no-js">
     <?php include 'files/header.php'; ?>
-    <div class="splash-wrapper content-container dark "> <img src="" alt="Contact Us" width="1920" height="1080" class="seoimg">
+    <div class="splash-wrapper content-container dark "> <img src="/_images/newimg/C1.JPG" alt="Contact Us" width="1920" height="1080" class="seoimg">
         <div class="splash-content">
             <div class="main-title">
                 <h1>Contact Us</h1> </div>
@@ -94,7 +94,7 @@ if($d['contact']==1){
                         </select><br>
                         <textarea rows="6" name="message" placeholder="Enter message" ></textarea>
                         <br>
-                        <input type="submit" class="button-27" style="color: white" value="1" name="contact">
+                        <input type="submit" class="button-27" style="color: white" value="Submit Form" name="contact">
                     </form>
                     <style type="text/css">
                         .form-style input, textarea, select {
@@ -141,22 +141,12 @@ if($d['contact']==1){
                     </ul>
                 </div>
                
-                <h2>Popular Classes </h2>
+                <h2>Location </h2>
                 <div class="col-items">
                     <div class="col-res ">
-                        <article class="snippet">
-                            <a href="/weight-loss/morning-glory/">
-                                <div class="img"> <img class="snippet-image" src="/wp-content/uploads/2018/12/limited-class-numbers-for-weight-loss-training-unit-27-koh-samui-thailand-360x250.jpg" alt="Limited Class Numbers For Weight Loss Training Alpha 7 Seas Thailand" width="360" height="250"> </div>
-                                <h1>Morning Glory</h1> </a>
-                            <p>Description Required. 60 Minutes Work time – 30 minutes 40 people Open to all fitness levels The class is set up with exercises chosen and performed on a repetitive basis Customers work consecutively through the exercises in order Description Required. [...]</p>
-                        </article> <a class="fill button-27" href="/weight-loss/morning-glory/">More Info</a> </div>
-                    <div class="col-res ">
-                        <article class="snippet">
-                            <a href="/fitness/the-punisher/">
-                                <div class="img"> <img class="snippet-image" src="/wp-content/uploads/2018/12/kettle-bell-strength-and-conditioning-at-unit-27-koh-samui-thailand-360x250.jpg" alt="Kettle Bell Strength And Conditioning At Alpha 7 Seas Thailand" width="360" height="250"> </div>
-                                <h1>The Punisher</h1> </a>
-                            <p>Description Required 90 Minutes Work time – 31.5 minutes (including rests and punishments = approx. 45 minutes) 36 people Advanced The class is set to run as an 18 station circuit The circuit is completed once Maximum 2 people per station 3 intervals are completed at one station before moving to the next station First interval = [...]</p>
-                        </article> <a class="fill button-27" href="/fitness/the-punisher/">More Info</a> </div>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3769.3849851183663!2d72.82324741442547!3d19.134618155100785!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b618f894e7a3%3A0xd8c9125de174e1bb!2sAlpha+7+Seas+Gym!5e0!3m2!1sen!2sin!4v1553860912479!5m2!1sen!2sin" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                    </div>
+                   
                 </div>
                 
             </aside><br><br><br>

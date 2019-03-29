@@ -16,25 +16,12 @@
     <footer id="footer">
         <div class="content-container dark">
             <div class="inner-content-container">
+                <div class="col-f"></div>
+                <div class="col-f"></div>
                 <div class="col-f">
                     <h6>About</h6>
                     <p>Alpha 7 Seas is a dedicated fitness and <strong>weight loss gym</strong> centrally located and ready to help you achieve your strength, conditioning, CrossFit and <a href="/personal-training/">personal training</a> goals.</p>
                     <p>Alpha 7 Seas is part of a much larger group of Thailand based fitness facilities known as the <a href="/unit-27-group/">Alpha 7 Seas Group</a>, if you are travelling and want to maintain your training, check out our other fitness facilities in Thailand.</p>
-                </div>
-                <div class="col-f">
-                    <h6>Team</h6>
-                    <p><span>Rob Hallam</span> <a href="team/rob-hallam/">CEO</a></p>
-                    <p><span>Ryan Fryer</span> <a href="team/ryan-fryer/">General Manager</a></p>
-                    <p><span>Dayle Hallam</span> <a href="team/dayle-hallam/">Chief Instructor</a></p>
-                </div>
-                <div class="col-f">
-                    <h6>Training</h6>
-                    <p><span>Alpha 7 Seas</span> <a href="fitness/" title="Fitness Koh Samui">Fitness</a></p>
-                    <p><span>Alpha 7 Seas</span> <a href="weight-loss/" title="Weight Loss Koh Samui">Weight Loss</a></p>
-                    <p><span>Alpha 7 Seas</span> <a href="strength-and-conditioning/" title="Strength & Conditioning Koh Samui">Strength &amp; Conditioning</a></p>
-                    <p><span>Alpha 7 Seas</span> <a href="flexibility-and-core/" title="Flexibility & Core Koh Samui">Flexibility &amp; Core</a></p>
-                    <p><span>Alpha 7 Seas</span> <a href="personal-training/" title="Personal Training Koh Samui">Personal Training</a></p>
-                    <p><span>Alpha 7 Seas</span> <a href="facilities/ice-baths/" title="Ice Baths Koh Samui">Ice Baths</a></p>
                 </div>
                 <div class="col-f">
                     <h6>Contact</h6>

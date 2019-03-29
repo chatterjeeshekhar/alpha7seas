@@ -53,7 +53,7 @@
 
 <body class="page-template page-template-page-templates page-template-page_parent page-template-page-templatespage_parent-php page page-id-2 page-parent woocommerce-no-js">
     <?php include 'files/header.php'; ?>
-    <div class="splash-wrapper content-container dark "> <img src="/wp-content/uploads/2015/03/strength-and-conditioning-training-phuket-thailand-1920x1000.jpg" alt="Strength &#038; Conditioning Training, Mumbai, India" width="1920" height="1080" class="seoimg">
+    <div class="splash-wrapper content-container dark "> <img src="/_images/newimg/T1.JPG" alt="Strength &#038; Conditioning Training, Mumbai, India" width="1920" height="1080" class="seoimg">
         <div class="splash-content">
             <div class="main-title">
                 <h1>Strength &#038; Conditioning Training, Mumbai, India</h1> </div>

@@ -6,10 +6,10 @@
                         <a href="https://www.facebook.com/alpha7seas/" rel="nofollow" title="Alpha 7 Seas on Facebook" class="social-icon icon-facebook _blank"></a>
                         <a href="https://www.instagram.com/alpha7seas/" rel="nofollow" title="Alpha 7 Seas on Instagram" class="social-icon icon-instagram-filled _blank"></a>
                         <a href="https://twitter.com/OfficialUnit27/" rel="nofollow" title="Alpha 7 Seas on Twitter" class="social-icon icon-twitter _blank"></a>
-                    </aside><a href="https://www.officialcrossfitphuket.com/" class="facs ocp _blank" title="CrossFit Phuket">Crosfit <span>Phuket</span></a><a href="http://unit27primalfitness.com/" class="facs pf _blank" title="Primal Fitness Phuket">Primal <span>Fitness</span></a><a href="http://unit27musclebar.com/" class="facs mb _blank" rel="nofollow" title="Trooper Eats Phuket">Trooper <span>Eats</span></a>
+                    </aside><
                     <div class="facs locations simple-drop" title="Change Location">
                         <div class="sd-over">Alpha <span>7</span> Seas<span class="drop"></span></div>
-                        <div class="sd-menu"> <a href="/" class="active icon-location" title="Alpha 7 Seas" rel="nofollow">Mumbai</a> <a href="https://www.unit-27.com" class=" icon-location" title="Alpha 7 Seas Phuket">Phuket</a> </div>
+                        <div class="sd-menu"> <a href="/" class="active icon-location" title="Alpha 7 Seas" rel="nofollow">Mumbai</a></div>
                     </div></div>
             </div>
         </aside>
@@ -26,15 +26,7 @@
                             <li class="nav-pricing <?php if(basename($_SERVER['PHP_SELF'])=="pricing.php"){echo 'active';} ?>"> <a href="pricing.php">Pricing</a> </li>
                             <li class="nav-blog "> <a href="blog/">Blog </a>
                             </li>
-                            <li data-hover="mega" <?php if(basename($_SERVER['PHP_SELF'])=="about.php" || basename($_SERVER['PHP_SELF'])=="locations.php" || basename($_SERVER['PHP_SELF'])=="team.php" || basename($_SERVER['PHP_SELF'])=="mission.php"){echo 'class="active"';} ?>> <a href="about.php">About <span class="drop"></span></a>
-                                <ul class="level-2 mega">
-                                    <li <?php if(basename($_SERVER['PHP_SELF'])=="team.php"){echo 'class="active"';} ?>><a href="team.php">The Team</a></li>
-                                    <li <?php if(basename($_SERVER['PHP_SELF'])=="mission.php"){echo 'class="active"';} ?>><a href="mission.php">The Mission</a></li>
-                                    <li class="break"></li>
-                                    <li <?php if(basename($_SERVER['PHP_SELF'])=="locations.php"){echo 'class="active"';} ?>><a href="locations.php">Locations</a></li>
-                                 
-                                    
-                                </ul>
+                            <li data-hover="mega" <?php if(basename($_SERVER['PHP_SELF'])=="about.php" || basename($_SERVER['PHP_SELF'])=="locations.php" || basename($_SERVER['PHP_SELF'])=="team.php" || basename($_SERVER['PHP_SELF'])=="mission.php"){echo 'class="active"';} ?>> <a href="about.php">About </a>
                             </li>
                             <li class="nav-email<?php if(basename($_SERVER['PHP_SELF'])=="contact.php"){echo ' active';} ?>">
                                 <a href="contact.php" class="btn-contact2 icon-mail-1"></a>

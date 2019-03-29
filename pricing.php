@@ -53,7 +53,7 @@
 
 <body class="page-template page-template-page-templates page-template-page_parent page-template-page-templatespage_parent-php page page-id-96 woocommerce-no-js">
     <?php include 'files/header.php'; ?>
-    <div class="splash-wrapper content-container dark "> <img src="" alt="Pricing &#038; Packages" width="1920" height="1080" class="seoimg">
+    <div class="splash-wrapper content-container dark "> <img src="/_images/newimg/P1.JPG" alt="Pricing &#038; Packages" width="1920" height="1080" class="seoimg">
         <div class="splash-content">
             <div class="main-title">
                 <h1>Pricing &#038; Packages</h1> </div>
@@ -134,38 +134,45 @@
             <table class="plans">
                 <tbody>
                     <tr>
-                        <th class="pick-text">Pick a plan &amp; sign up in
-                            <br>60 seconds. No hidden fees.
-                            <br>Cancel at any time.</th>
+                        <th class="pick-text">Pick a membership plan</th>
                         <th>
-                            <h2>Monthly</h2></th>
+                            <h3>Monthly</h3></th>
                         <th>
-                            <h2>Quaterly</h2></th>
+                            <h3>Quaterly</h3></th>
                         <th>
-                            <h2>Half-yearly</h2></th>
+                            <h3>Half-yearly</h3></th>
                         <th>
-                            <h2>Yearly</h2></span></th>        
+                            <h3>Yearly</h3></span></th>        
                     </tr>
                     <tr>
                         <td>Gym Membership <a href="#" class="_info" title="Work permit or visa must be provided upon joining process">?</a></td>
-                        <th><a href="http://www.unit-27booking.com">Sign Up Now</a></th>
-                        <th><a href="http://www.unit-27booking.com">Sign Up Now</a></th>
-                        <th><a href="http://www.unit-27booking.com">Sign Up Now</a></th>
-                        <th><a href="http://www.unit-27booking.com">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/E3eB8Aw" target="_new">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/5ARhIBC" target="_new">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/ERIkYA9" target="_new">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/4WEAkUp" target="_new">Sign Up Now</a></th>
+                    </tr>
+                    <tr>
+                        <th class="pick-text">Pick a training plan</th>
+                        <th>
+                            <h3>Monthly (Gold)</h3></th>
+                        <th>
+                            <h3>Quaterly (Gold)</h3></th>
+                        <th>
+                            <h3>Monthly (Platinum)</h3></th>
+                        <th>
+                            <h3>Quaterly (Platinum)</h3></th>       
                     </tr>
                     <tr>
                         <td>Personal Training <a href="#" class="_info" title="Some packages offer a free Alpha 7 Seas Singlet when signing up!">?</a></td>
-                        <th><a href="http://www.unit-27booking.com">Sign Up Now</a></th>
-                        <th><a href="http://www.unit-27booking.com">Sign Up Now</a></th>
-                        <th><a href="http://www.unit-27booking.com">Sign Up Now</a></th>
-                        <th><a href="http://www.unit-27booking.com">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/tgZGlfk" target="_new">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/zHnhncv" target="_new">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/x2ZLNh1" target="_new">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/4Wc7fIF" target="_new">Sign Up Now</a></th>
                     </tr>
                     <tr>
                         <th colspan="5"></th>
                     </tr>
-                    <tr>
-                        <th colspan="5"><a class="button-27 square _blank" href="http://www.unit-27booking.com">Book a trial</a></th>
-                    </tr>
+                   
                 </tbody>
             </table>
             <br>

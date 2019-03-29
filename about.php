@@ -53,7 +53,7 @@
 
 <body class="page-template page-template-page-templates page-template-page_parent page-template-page-templatespage_parent-php page page-id-63 woocommerce-no-js">
     <?php include 'files/header.php'; ?>
-    <div class="splash-wrapper content-container dark "> <img src="/wp-content/uploads/2018/12/koh-samuis-best-fitness-and-weight-loss-gym-1920x1080.jpg" alt="Alpha 7 Seas" width="1920" height="1080" class="seoimg">
+    <div class="splash-wrapper content-container dark "> <img src="/_images/newimg/A1.JPG" alt="Alpha 7 Seas" width="1920" height="1080" class="seoimg">
         <div class="splash-content">
             <div class="main-title">
                 <h1>Alpha 7 Seas</h1> </div>
@@ -119,6 +119,24 @@
             <div class="dark-down-arrow"></div>
         </div>
     </aside>
+    <section class="promo content-container dark">
+        <div class="inner-content-container no-cta">
+            <h2>It&#8217;s actually not &#8211; &#8216;Go Hard Or Go Home&#8217;</h2>
+            <p>&#8220;Go Hard or Go Home&#8221; is a great thing to print on our shirts, merchandise and posters to really motivate people, but it is truly not all that Alpha 7 Seas is about. We cater to everyone, any effort expelled in our gym is always a reward unto itself and you&#8217;ll never feel like you need to go home or be told you didn&#8217;t go hard enough, we are always happy that you turned up to sweat beside the rest of us. </p>
+            <p>So with that in mind, our true Alpha 7 Seas mission statement, or vision if you will, is written below.</p>
+        </div>
+        <div class="light-down-arrow"></div>
+    </section>
+    <div class="cms content-container">
+        <div class="inner-content-container">
+            <br>
+            <h2>"TO PROVIDE PHYSICAL, MENTAL &amp; SOCIAL CONDITIONING OF BODY &amp; MIND THROUGH A SAFE, NATURAL &amp; SCIENTIFICALLY PROVEN SYSTEM"</h2>
+            <br>
+            <p>So there you have it, straight from us to you. If you train with us at Alpha 7 Seas we will work not just hard to help you achieve your goals, but we will also work smart &amp; work with you to get you to where you want to be without injury or un-safe methods. We are serious about helping you reach your full potential whether as an athlete or regular person with regular problems, if you don't believe us than we challenge you to come try out one of our classes and truly see that we are not your normal Phuket gym, we are Alpha 7 Seas and we are dedicated to making that name synonymous with health &amp; fitness here in Thailand.</p>
+            <br>
+            <br> </div>
+        <div class="dark-down-arrow"></div>
+    </div>
     <section class="merchandise content-container dark ">
         <div class="inner-content-container">
             <h2>Alpha 7 Fitness</h2>
