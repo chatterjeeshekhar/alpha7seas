@@ -44,7 +44,7 @@
             </div>
         </div>
         <div class="copyright">
-            <p>Copyright 2017 - 2018 &copy; Alpha 7 Seas&trade;, All Rights Reserved</p>
+            <p>Copyright 2017 - <?php echo date('Y'); ?> &copy; Alpha 7 Seas&trade;, All Rights Reserved</p>
         </div>
     </footer>
     <script type='text/javascript' src='_js/default/plugins.min.js'></script>
