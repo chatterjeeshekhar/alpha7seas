@@ -1,3 +1,4 @@
+    <meta name="theme-color" value="#000000">
     <header id="top">
         <aside class="container top-bar">
             <div class="inner-container">
