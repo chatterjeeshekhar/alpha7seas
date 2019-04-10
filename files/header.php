@@ -13,8 +13,13 @@
                     </div></div>
             </div>
         </aside>
+        <style type="text/css">
+        .logo {
+
+        }
+        </style>
         <div class="container nav-bar">
-            <div class="inner-container"> <a href="/" title="Alpha 7 Seas - Phuket Fitness, Weight Loss & Conditioning Gym" class="logo"><span></span>Alpha 7 Seas</a>
+            <div class="inner-container"> <a href="/" title="Alpha 7 Seas - Phuket Fitness, Weight Loss & Conditioning Gym" class="logo"><span><img src="http://www.alpha7seas.com/assets/images/logo-small.png" height="65%" style="vertical-align:middle;"></span>Alpha 7 Seas</a>
                 <div class="nav-wrapper">
                     <nav>
                         <ul class="megamenu">

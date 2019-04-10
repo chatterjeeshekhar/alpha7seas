@@ -57,7 +57,7 @@
         <div class="splash-content">
             <div class="main-title">
                 <h1>Strength &#038; Conditioning Training, Mumbai, India</h1> </div>
-            <a class="play-video-btn-large fancylink icon-play" href="/ajax/?view=video&amp;id=NyshzBmtzTE&amp;t=Strength+%26%23038%3B+Conditioning+Training%2C+Koh+Samui%2C+India" rel="attachment"></a>
+            <a class="play-video-btn-large fancylink icon-play" href="https://www.unit-27.com/ajax/?view=video&amp;id=NyshzBmtzTE&amp;t=Strength+%26%23038%3B+Conditioning+Training%2C+Koh+Samui%2C+India" rel="attachment"></a>
         </div>
         <div class="light-down-arrow" id="more-info"></div>
     </div>

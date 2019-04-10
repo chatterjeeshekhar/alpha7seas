@@ -82,35 +82,35 @@
                             <div class="img t1"></div>
                             <h1>Strength &amp; Conditioning</h1> </a>
                         <p>Description Required</p>
-                    </article> <a class="fill button-27" href="/strength-and-conditioning/#classes">Class Options </a> <a class="fill button-27" href="/strength-and-conditioning/#more-info">More Info</a> </div>
+                    </article> </div>
                 <div class="col-res">
                     <article class="snippet">
                         <a href="/weight-loss/">
                             <div class="img t2"></div>
                             <h1>Weight Loss</h1> </a>
                         <p> Description Required </p>
-                    </article> <a class="fill button-27" href="/weight-loss/#classes">Class Options </a> <a class="fill button-27" href="/weight-loss/#more-info">More Info </a> </div>
+                    </article> </div>
                 <div class="col-res">
                     <article class="snippet">
                         <a href="/flexibility-and-core/">
                             <div class="img t3"></div>
                             <h1>Flexibility &amp; Core</h1> </a>
                         <p>Description Required</p>
-                    </article> <a class="fill button-27" href="/flexibility-and-core/#classes">Class Options </a> <a class="fill button-27" href="/flexibility-and-core/#more-info">More Info </a> </div>
+                    </article> </div>
                 <div class="col-res">
                     <article class="snippet">
                         <a href="/fitness/">
                             <div class="img t6"></div>
                             <h1>Fitness Advanced</h1> </a>
                         <p>Description Required</p>
-                    </article> <a class="fill button-27" href="/fitness/#classes">Class Options </a> <a class="fill button-27" href="/fitness/#more-info">More Info</a> </div>
+                    </article> </div>
                 <div class="col-res">
                     <article class="snippet">
                         <a href="/personal-training/">
                             <div class="img t5"></div>
                             <h1>Personal Training</h1> </a>
                         <p>Description Required</p>
-                    </article> <a class="fill button-27" href="/personal-training/#instructors">Instructors </a> <a class="fill button-27" href="/personal-training/#more-info">More Info </a> </div>
+                    </article> </div>
             </div>
             <br> </div>
         <div class="dark-down-arrow"></div>

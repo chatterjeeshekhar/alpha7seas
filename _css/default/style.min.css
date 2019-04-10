@@ -270,7 +270,11 @@ header#top .container.fixed {
 header#top .container.fixed .logo {
     height: 82px;
     line-height: 5.5rem;
-    font-size: 1.75rem
+    font-size: 1.95rem
+}
+
+header#top .container.fixed .logo img {
+    margin-top: 25px;
 }
 
 header#top .container.fixed .logo:before {
@@ -443,8 +447,8 @@ header#top .logo {
 }
 
 header#top .logo span {
-    background-position: -11px 0;
-    width: 90px;
+    background-position: -41px 0;
+    width: 70px;
     height: 120px;
     float: left;
     margin: 0 20px 0 10px
@@ -452,12 +456,12 @@ header#top .logo span {
 
 header#top .logo:before {
     content: '';
-    width: 45px;
+    width: 95px;
     height: 70px;
     position: absolute;
     right: -6px;
     top: 27px;
-    background: rgba(149, 75, 183, .35);
+    background: rgba(233, 100, 18, .55);
     z-index: -1
 }
 
