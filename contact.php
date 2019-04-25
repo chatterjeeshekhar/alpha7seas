@@ -118,14 +118,7 @@ if($d['contact']==1){
                     </div>
                     
                     <p>Mailing Address: <a rel="nofollow" href="#map">Shop No.1, C Wing, Platinum Heights, Mhada Junction, Andheri West, Near Versova Telephone Exchange, Mumbai 400053, India</a></p>
-                    <div class="rating-container">
-                        <div class="rating-wrapper">
-                            <div class="helpful-page">Hi there, was this page helpful?</div>
-                            <div id="post-ratings-1432" class="post-ratings" data-nonce="bf705195f6"><img id="rating_1432_1" src="/wp-content/plugins/wp-postratings/images/stars/rating_on.gif" alt="" title="" onmouseover="current_rating(1432, 1, '');" onmouseout="ratings_off(5, 0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /><img id="rating_1432_2" src="/wp-content/plugins/wp-postratings/images/stars/rating_on.gif" alt="" title="" onmouseover="current_rating(1432, 2, '');" onmouseout="ratings_off(5, 0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /><img id="rating_1432_3" src="/wp-content/plugins/wp-postratings/images/stars/rating_on.gif" alt="" title="" onmouseover="current_rating(1432, 3, '');" onmouseout="ratings_off(5, 0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /><img id="rating_1432_4" src="/wp-content/plugins/wp-postratings/images/stars/rating_on.gif" alt="" title="" onmouseover="current_rating(1432, 4, '');" onmouseout="ratings_off(5, 0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /><img id="rating_1432_5" src="/wp-content/plugins/wp-postratings/images/stars/rating_on.gif" alt="" title="" onmouseover="current_rating(1432, 5, '');" onmouseout="ratings_off(5, 0, 0);" onclick="rate_post();" onkeypress="rate_post();" style="cursor: pointer; border: 0px;" /> (<strong>2</strong> votes, average: <strong>5.00</strong> out of 5)
-                                <br /><span class="post-ratings-text" id="ratings_1432_text"></span></div>
-                            <div id="post-ratings-1432-loading" class="post-ratings-loading"> <img src="/wp-content/plugins/wp-postratings/images/loading.gif" width="16" height="16" class="post-ratings-image" />Loading...</div>
-                        </div>
-                    </div>
+                    
                 </article>
             </div>
             <aside class="col-right">
