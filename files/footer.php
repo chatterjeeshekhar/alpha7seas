@@ -1,17 +1,4 @@
     <?php if(basename($_SERVER['PHP_SELF'])!="index.php"){?>
-    <section class="news content-container">
-        <div class="inner-content-container">
-            <div class="vertical-items">
-                <br>
-                <div class="col-items">
-                    <article class='ba' id="post-1618">
-                        <h1>Opening Day &#8211; Alpha 7 Seas</h1>
-                        <p> Content Coming Soon [...] </p> <a class="button-27" href="<?php echo $mainUrl;?>blog/events/opening-day-unit-27-koh-samui/">Read The Story</a> </article>
-                </div>
-            </div>
-        </div>
-        <div class="dark-down-arrow"></div>
-    </section>
     <?php } ?>
     <footer id="footer">
         <div class="content-container dark">

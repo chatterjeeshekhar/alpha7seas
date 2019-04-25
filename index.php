@@ -68,77 +68,11 @@
         <div class="inner-content-container">
             <h2>Go Hard Or Go Home</h2>
             <p>Alpha 7 Seas is a custom designed, specialised, weight loss & conditioning facility created to fill the need for a scientifically proven full fitness gym in Mumbai, India. The combination of our fully qualified instructors plus state of the art equipment & training, provide for structured and safe development toward meaningful physical, mental and social transformations.</p>            <p>Whether your goal is to get fit, lose weight, cut up for competition, pack on muscle, or even improve your specific sports performance levels (whilst making some life long friends along the way) we have everything you are ever going to need all under one roof!</p> <a href="/pricing.php" class="button-27 cta">Pricing and Packages</a> </div>
-        <div class="light-down-arrow"></div>
-    </section>
-    <section class="training content-container">
-        <div class="inner-content-container">
-            <h2 class="sub-title">Fitness &amp; Weight Loss Systems</h2>
-            <p>Alpha 7 Seas classes are seperated into different categories so you can pick the sessions that best match your fitness and athletic goals.</p>
-            <br>
-            <div class="col-items">
-                <div class="col-res">
-                    <article class="snippet">
-                        <a href="/strength-and-conditioning/">
-                            <div class="img t1"></div>
-                            <h1>Strength &amp; Conditioning</h1> </a>
-                        <p>Description Required</p>
-                    </article> </div>
-                <div class="col-res">
-                    <article class="snippet">
-                        <a href="/weight-loss/">
-                            <div class="img t2"></div>
-                            <h1>Weight Loss</h1> </a>
-                        <p> Description Required </p>
-                    </article> </div>
-                <div class="col-res">
-                    <article class="snippet">
-                        <a href="/flexibility-and-core/">
-                            <div class="img t3"></div>
-                            <h1>Flexibility &amp; Core</h1> </a>
-                        <p>Description Required</p>
-                    </article> </div>
-                <div class="col-res">
-                    <article class="snippet">
-                        <a href="/fitness/">
-                            <div class="img t6"></div>
-                            <h1>Fitness Advanced</h1> </a>
-                        <p>Description Required</p>
-                    </article> </div>
-                <div class="col-res">
-                    <article class="snippet">
-                        <a href="/personal-training/">
-                            <div class="img t5"></div>
-                            <h1>Personal Training</h1> </a>
-                        <p>Description Required</p>
-                    </article> </div>
-            </div>
-            <br> </div>
-        <div class="dark-down-arrow"></div>
-    </section>
-    <section class="merchandise content-container dark ">
+   
         <div class="inner-content-container">
             <h2>Alpha 7 Fitness</h2>
             <p>Alpha 7 Seas isn't just another gym, we are Samui's most dedicated fitness organisation and we are committed to getting your training right and your body tight. Don't forget to check out our <a href="/strength-and-conditioning/" title="Strength &amp; Conditioning Training classes at Alpha 7 Seas, Mumbai">strength &amp; conditioning</a> classes as well as our other unique <a href="/fitness/" title="Fitness training classes at Alpha 7 Seas, Mumbai">fitness training</a> sessions. </p>
-            <p>We also like to help our clients and customers with advice that matters for your training, check out our Koh Samui fitness blog where we post helpful training tips, weight loss advice, dietary facts and more.</p> <a href="/blog/" class="button-27 cta" title="Alpha 7 Seas Fitness Phuket Blog">Visit our Blog</a> </div>
-        <div class="light-down-arrow"></div>
-    </section>
-    <section class="news content-container">
-        <div class="inner-content-container">
-            <div class="vertical-items">
-                <br>
-                <div class="col-items">
-                    <article class='ba' id="post-1618">
-                        <h1>Opening Day &#8211; Alpha 7 Seas</h1>
-                        <p> Content Coming Soon [...] </p> <a class="button-27" href="<?php echo $mainUrl;?>blog/events/opening-day-unit-27-koh-samui/">Read The Story</a> </article>
-                </div>
-            </div>
-        </div>
-        <div class="dark-down-arrow"></div>
-    </section>
-    <section class="membership content-container dark">
-        <div class="inner-content-container">
-            <h2>Pricing &amp; Packages</h2>
-            <p>Good strength and conditioning training shouldn't cost you an arm and a leg. Here at Alpha 7 Seas, we want to help make your arms and legs stronger with our dedicated weight loss and advanced fitness training sessions.</p> <a href="/pricing.php" class="button-27 cta">View pricing</a> </div>
+            <p>We also like to help our clients and customers with advice that matters for your training, check out our Koh Samui fitness blog where we post helpful training tips, weight loss advice, dietary facts and more.</p><br><br> </div>
         <div class="light-down-arrow"></div>
     </section>
     <aside class="testimonials content-container dark faux-mask">

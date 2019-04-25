@@ -129,7 +129,7 @@
     <div class="cms content-container" id="session-pricing">
         <div class="inner-content-container">
             <br>
-            <h2 class="sub-title">Resident Trooper Pricing</h2>
+            <h2 class="sub-title">Pricing Plans</h2>
             <p>Sessions for Resident Trooper packages may only be used at the Alpha 7 Seas facility.</p>
             <table class="plans">
                 <tbody>
@@ -172,43 +172,9 @@
                     <tr>
                         <th colspan="5"></th>
                     </tr>
-                   
+
                 </tbody>
             </table>
-            <br>
-            <br>
-            <br>
-            <br> </div>
-        <div class="dark-down-arrow"></div>
-    </div>
-    <section class="promo content-container dark">
-        <div class="inner-content-container no-cta">
-            <h2>Daytime Pricing</h2>
-            <p>Short visits to Mumbai are no a problem, if the session and all inclusive package plans are not going to work for you, than we have pricing for day visits and one time sessions also available, please see the below pricing guide and FAQ! Our classes require advance booking, so make sure to turn up early as class space is limited.</p>
-        </div>
-        <div class="light-down-arrow"></div>
-    </section>
-    <div class="cms content-container" id="walk-in-training">
-        <div class="inner-content-container">
-            <br>
-            <h2 class="sub-title">Walk In &amp; Day Visit Pricing</h2>
-            <p>If your stay in Mumbai is a short holiday we have these daily training options available for you.</p>
-            <br>
-            <table class="plans">
-                <tbody>
-                    <tr>
-                        <td>Walk in any session <a href="#" class="_info" title="Remember all sessions require 2 hour advance booking at the office, no exceptions!">?</a></td>
-                        <td>430 THB</td>
-                    </tr>
-                    <tr>
-                        <td>Ice Bath </td>
-                        <td>220 THB</td>
-                    </tr>
-                </tbody>
-            </table>
-            <br>
-            <br>
-            <br>
             <br>
             <h2 class="sub-title ">Pricing F.A.Q</h2>
             <p>Please read the frequently asked questions before contacting us or signing up to a training plan.</p>
@@ -278,13 +244,6 @@
             <br> </div>
         <div class="dark-down-arrow"></div>
     </div>
-    <section class="merchandise content-container dark ">
-        <div class="inner-content-container">
-            <h2>Mumbai Fitness</h2>
-            <p>Alpha 7 Seas isn't just another gym, we are Samui's most dedicated fitness organisation and we are committed to getting your training right and your body tight. Don't forget to check out our <a href="/strength-and-conditioning/" title="Strength &amp; Conditioning Training classes at Alpha 7 Seas, Thailand">strength &amp; conditioning</a> classes as well as our other unique <a href="/fitness/" title="Fitness training classes at Alpha 7 Seas, Thailand">fitness training</a> sessions. </p>
-            <p>We also like to help our clients and customers with advice that matters for your training, check out our Mumbai fitness blog where we post helpful training tips, weight loss advice, dietary facts and more.</p> <a href="/blog/" class="button-27 cta" title="Alpha 7 Seas Fitness Phuket Blog">Visit our Blog</a> </div>
-        <div class="light-down-arrow"></div>
-    </section>
     <?php include 'files/footer.php'; ?>
 </body>
 
