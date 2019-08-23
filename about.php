@@ -53,7 +53,7 @@
 
 <body class="page-template page-template-page-templates page-template-page_parent page-template-page-templatespage_parent-php page page-id-63 woocommerce-no-js">
     <?php include 'files/header.php'; ?>
-    <div class="splash-wrapper content-container dark "> <img src="/_images/newimg/A1.JPG" alt="Alpha 7 Seas" width="1920" height="1080" class="seoimg">
+    <div class="splash-wrapper content-container dark "> <img src="/_images/newimg/image6.jpeg" alt="Alpha 7 Seas" width="1920" height="1080" class="seoimg">
         <div class="splash-content">
             <div class="main-title">
                 <h1>Alpha 7 Seas</h1> </div>

@@ -31,7 +31,7 @@
             </div>
         </div>
         <div class="copyright">
-            <p>Copyright 2017 - <?php echo date('Y'); ?> &copy; Alpha 7 Seas&trade;, All Rights Reserved</p>
+            <p>Copyright 2017 - <?php echo date('Y'); ?> &copy; Alpha 7 Seas&trade;, All Rights Reserved<br><font size="-1" color="#737373">Designed by <a style="color:#737373" href="https://www.orivin.com" target="_blank">Orivin Technologies</a></font></p>
         </div>
     </footer>
     <script type='text/javascript' src='_js/default/plugins.min.js'></script>
