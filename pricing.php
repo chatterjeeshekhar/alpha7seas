@@ -57,7 +57,6 @@
         <div class="splash-content">
             <div class="main-title">
                 <h1>Pricing &#038; Packages</h1> </div>
-            <a class="play-video-btn-large fancylink icon-play" href="/ajax/?view=video&amp;id=3cYRgEHHckg&amp;t=Pricing+%26%23038%3B+Packages" rel="attachment"></a>
         </div>
         <div class="light-down-arrow" id="more-info"></div>
     </div>
@@ -130,7 +129,6 @@
         <div class="inner-content-container">
             <br>
             <h2 class="sub-title">Pricing Plans</h2>
-            <p>Sessions for Resident Trooper packages may only be used at the Alpha 7 Seas facility.</p>
             <table class="plans">
                 <tbody>
                     <tr>
@@ -175,53 +173,7 @@
 
                 </tbody>
             </table>
-            <br>
-            <h2 class="sub-title ">Pricing F.A.Q</h2>
-            <p>Please read the frequently asked questions before contacting us or signing up to a training plan.</p>
-            <br>
-            <table class="plans">
-                <tbody>
-                    <tr>
-                        <td class="b"> Credits are valid for 3x Months ONLY, from date of purchase. </td>
-                    </tr>
-                    <tr>
-                        <td class="p"> Credits are not available for transfer to another user or for shared use. </td>
-                    </tr>
-                    <tr>
-                        <td class="b"> Online payments all include a 4.5% banking charge through PayPal, the option remain to pay on arrival without booking in advance. </td>
-                    </tr>
-                    <tr>
-                        <td class="p">No Refunds available. </td>
-                    </tr>
-                    <tr>
-                        <td class="b">Cancellations of classes has to be a minimum of 12x Hours in advance. (Failure to cancel on time will result in the loss of the credit)</td>
-                    </tr>
-                    <tr>
-                        <td class="p">Bookings can be made 7x Days in advance. </td>
-                    </tr>
-                    <tr>
-                        <td class="b">Clients must wear suitable clothing &amp; shoes and have a towel.</td>
-                    </tr>
-                    <tr>
-                        <td class="p">Ice Baths are included only on the same days of class attendance.</td>
-                    </tr>
-                    <tr>
-                        <td class="b">Please check in at least 15mins before class starting time. (No late arrivals will be allowed to enter the class)</td>
-                    </tr>
-                    <tr>
-                        <td class="p">We recommend no more than 2x High Intensity Sessions per day. </td>
-                    </tr>
-                    <tr>
-                        <td class="b">Please see 'information button' on each class for more information. </td>
-                    </tr>
-                    <tr>
-                        <td class="p">Please contact
-                            <a href="/ajax/?view=contact" class="email-text btn-contact"></a> for any further questions on our terms &amp; conditions and online booking system.</td>
-                    </tr>
-                </tbody>
-            </table>
-            <br>
-            <br>
+        
             <br>
             <br>
             <h2 class="sub-title ">Your Training Agreement</h2>

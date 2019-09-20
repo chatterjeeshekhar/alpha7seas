@@ -57,7 +57,6 @@
         <div class="splash-content">
             <div class="main-title">
                 <h1>Alpha 7 Seas</h1> </div>
-            <a class="play-video-btn-large fancylink icon-play" href="/ajax/?view=video&amp;id=qBcXk9OfpJg&amp;t=Unit+27" rel="attachment"></a>
         </div>
         <div class="light-down-arrow" id="more-info"></div>
     </div>
@@ -86,8 +85,8 @@
                 </div><div class="col-res ">
                     <article class="snippet" style="text-align:center">
                         <a>
-                            <img src="_images\team\02.png" alt="Increased Strength And Stamina Alpha 7 Seas India" width="250" height="250"><br>
-                            <h4>Divya Chheda - Head Coach</h4></a>
+                            <img src="_images\team\04.png" alt="Increased Strength And Stamina Alpha 7 Seas India" width="250" height="250"><br>
+                            <h4>Ashish Kamath - Co Founder</h4></a>
                     </article>
                 </div><div class="col-res ">
                     <article class="snippet" style="text-align:center">
@@ -98,20 +97,38 @@
                 </div><div class="col-res ">
                     <article class="snippet" style="text-align:center">
                         <a>
-                            <img src="_images\team\04.png" alt="Increased Strength And Stamina Alpha 7 Seas India" width="250" height="250"><br>
-                            <h4>Ashish Kamath - Co Founder</h4></a>
-                    </article>
-                </div><div class="col-res ">
-                    <article class="snippet" style="text-align:center">
-                        <a>
-                            <img src="_images\team\05.png" alt="Increased Strength And Stamina Alpha 7 Seas India" width="250" height="250"><br>
-                            <h4>Rutwik Pathare - Co Founder</h4></a>
-                    </article>
-                </div><div class="col-res ">
-                    <article class="snippet" style="text-align:center">
-                        <a>
                             <img src="_images\team\06.png" alt="Increased Strength And Stamina Alpha 7 Seas India" width="250" height="250"><br>
-                            <h4>R S Chindakar - Co Founder</h4></a>
+                            <h4>Raghunath Chindakar - Co Founder</h4></a>
+                    </article>
+                </div><div class="col-res ">
+                    <article class="snippet" style="text-align:center">
+                        <a>
+                            <img src="_images\team\02.png" alt="Increased Strength And Stamina Alpha 7 Seas India" width="250" height="250"><br>
+                            <h4>Divya Chheda - Head Coach</h4></a>
+                    </article>
+                </div><div class="col-res ">
+                    <article class="snippet" style="text-align:center">
+                        <a>
+                            <img src="_images\team\vikram.png" alt="Increased Strength And Stamina Alpha 7 Seas India" width="250" height="250"><br>
+                            <h4>Vikram Sahai- Head Coach</h4></a>
+                    </article>
+                </div><div class="col-res ">
+                    <article class="snippet" style="text-align:center">
+                        <a>
+                            <img src="_images\team\sherry.png" alt="Increased Strength And Stamina Alpha 7 Seas India" width="250" height="250"><br>
+                            <h4>Sherry Mann - Head Coach</h4></a>
+                    </article>
+                </div><div class="col-res ">
+                    <article class="snippet" style="text-align:center">
+                        <a>
+                            <img src="_images\team\amit.png" alt="Increased Strength And Stamina Alpha 7 Seas India" width="250" height="250"><br>
+                            <h4>Amit Pradhan - Head Coach</h4></a>
+                    </article>
+                </div><div class="col-res ">
+                    <article class="snippet" style="text-align:center">
+                        <a>
+                            <img src="_images\team\ameya.png" alt="Increased Strength And Stamina Alpha 7 Seas India" width="250" height="250"><br>
+                            <h4>Ameya Namjoshi - Head Coach</h4></a>
                     </article>
                 </div>
             </div>
@@ -121,9 +138,9 @@
     </aside>
     <section class="promo content-container dark">
         <div class="inner-content-container no-cta">
-            <h2>It&#8217;s actually not &#8211; &#8216;Go Hard Or Go Home&#8217;</h2>
-            <p>&#8220;Go Hard or Go Home&#8221; is a great thing to print on our shirts, merchandise and posters to really motivate people, but it is truly not all that Alpha 7 Seas is about. We cater to everyone, any effort expelled in our gym is always a reward unto itself and you&#8217;ll never feel like you need to go home or be told you didn&#8217;t go hard enough, we are always happy that you turned up to sweat beside the rest of us. </p>
-            <p>So with that in mind, our true Alpha 7 Seas mission statement, or vision if you will, is written below.</p>
+            <h2>Alpha 7 Fitness</h2>
+            <p>Alpha 7 Seas isn't just another gym, we are Samui's most dedicated fitness organisation and we are committed to getting your training right and your body tight. Don't forget to check out our <a href="/strength-and-conditioning/" title="Strength &amp; Conditioning Training classes at Alpha 7 Seas, Thailand">strength &amp; conditioning</a> classes as well as our other unique <a href="/fitness/" title="Fitness training classes at Alpha 7 Seas, Thailand">fitness training</a> sessions. </p>
+            <p>We also like to help our clients and customers with advice that matters for your training, check out our Koh Samui fitness blog where we post helpful training tips, weight loss advice, dietary facts and more.</p> 
         </div>
         <div class="light-down-arrow"></div>
     </section>
@@ -132,18 +149,13 @@
             <br>
             <h2>"TO PROVIDE PHYSICAL, MENTAL &amp; SOCIAL CONDITIONING OF BODY &amp; MIND THROUGH A SAFE, NATURAL &amp; SCIENTIFICALLY PROVEN SYSTEM"</h2>
             <br>
-            <p>So there you have it, straight from us to you. If you train with us at Alpha 7 Seas we will work not just hard to help you achieve your goals, but we will also work smart &amp; work with you to get you to where you want to be without injury or un-safe methods. We are serious about helping you reach your full potential whether as an athlete or regular person with regular problems, if you don't believe us than we challenge you to come try out one of our classes and truly see that we are not your normal Phuket gym, we are Alpha 7 Seas and we are dedicated to making that name synonymous with health &amp; fitness here in Thailand.</p>
+            <p>So there you have it, straight from us to you. If you train with us at Alpha 7 Seas we will work not just hard to help you achieve your goals, but we will also work smart &amp; work with you to get you to where you want to be without injury or un-safe methods. We are serious about helping you reach your full potential whether as an athlete or regular person with regular problems, if you don't believe us than we challenge you to come try out one of our classes and truly see that we are not your normal Mumbai gym, we are Alpha 7 Seas and we are dedicated to making that name synonymous with health &amp; fitness here in India.</p>
             <br>
             <br> </div>
-        <div class="dark-down-arrow"></div>
+
+            <div class="dark-down-arrow"></div>
     </div>
-    <section class="merchandise content-container dark ">
-        <div class="inner-content-container">
-            <h2>Alpha 7 Fitness</h2>
-            <p>Alpha 7 Seas isn't just another gym, we are Samui's most dedicated fitness organisation and we are committed to getting your training right and your body tight. Don't forget to check out our <a href="/strength-and-conditioning/" title="Strength &amp; Conditioning Training classes at Alpha 7 Seas, Thailand">strength &amp; conditioning</a> classes as well as our other unique <a href="/fitness/" title="Fitness training classes at Alpha 7 Seas, Thailand">fitness training</a> sessions. </p>
-            <p>We also like to help our clients and customers with advice that matters for your training, check out our Koh Samui fitness blog where we post helpful training tips, weight loss advice, dietary facts and more.</p> <a href="/blog/" class="button-27 cta" title="Alpha 7 Seas Fitness Phuket Blog">Visit our Blog</a> </div>
-        <div class="light-down-arrow"></div>
-    </section>
+
     <?php include 'files/footer.php'; ?>
 </body>
 

@@ -60,26 +60,22 @@
             <ul class="content-holder"></ul>
         </div>
         <div class="prev-class"></div>
-        <div class="session-btn-wrapper"></div>
+        <div class="session-btn-wrapper1"></div>
         <div class="next-class"></div>
         <div class="light-down-arrow"></div>
     </aside>
     <section class="promo content-container dark">
         <div class="inner-content-container">
             <h2>Go Hard Or Go Home</h2>
-            <p>Alpha 7 Seas is a custom designed, specialised, weight loss & conditioning facility created to fill the need for a scientifically proven full fitness gym in Mumbai, India. The combination of our fully qualified instructors plus state of the art equipment & training, provide for structured and safe development toward meaningful physical, mental and social transformations.</p>            <p>Whether your goal is to get fit, lose weight, cut up for competition, pack on muscle, or even improve your specific sports performance levels (whilst making some life long friends along the way) we have everything you are ever going to need all under one roof!</p> <a href="/pricing.php" class="button-27 cta">Pricing and Packages</a> </div>
+            <p>Alpha 7 Seas is a strength and conditioning facility created to fill the need for a scientifically proven full fitness gym. The combination of our fully qualified Coaches plus State of the art equipment and training, provide for structured and safe development towards meaningful physical, mental and social transformations. Whether your goal is to get fit, lose weight, cut up for competition, pack on muscle, or even improve your specific sports performance levels (whilst making some life long friends along the way) we have everything you are ever going to need all under one roof.</p></div>
    
-        <div class="inner-content-container">
-            <h2>Alpha 7 Fitness</h2>
-            <p>Alpha 7 Seas isn't just another gym, we are Samui's most dedicated fitness organisation and we are committed to getting your training right and your body tight. Don't forget to check out our <a href="/strength-and-conditioning/" title="Strength &amp; Conditioning Training classes at Alpha 7 Seas, Mumbai">strength &amp; conditioning</a> classes as well as our other unique <a href="/fitness/" title="Fitness training classes at Alpha 7 Seas, Mumbai">fitness training</a> sessions. </p>
-            <p>We also like to help our clients and customers with advice that matters for your training, check out our Koh Samui fitness blog where we post helpful training tips, weight loss advice, dietary facts and more.</p><br><br> </div>
+   <br><br>
         <div class="light-down-arrow"></div>
     </section>
     <aside class="testimonials content-container dark faux-mask">
         <div class="inner-content-container">
-            <h2>Testimonials</h2>
-            <div class="testimonial">
-                <p>After checking out a couple different gyms on Koh Samui and being less then satisfied with the level of coaching and facilities I gave Alpha 7 Seas a try. As soon as I walked into the gym I noticed the cleanliness of the workout area, the floor was spotless, the equipment was being wiped down by a staff member and everything was in its place. Although this is a new gym with brand new equipment you got the sense that it is and always will be properly maintained. I will review Alpha 7 Seas on four points that I always take notice when trying out a new gym.</p> <a href="https://www.tripadvisor.com.au/ShowUserReviews-g1389361-d5823176-r626654952-Unit_27_Total_Conditioning_CrossFit_Gym-Chalong_Phuket_Town_Phuket.html" class="_blank" rel="nofollow">Russell H</a> </div> <a href="https://www.tripadvisor.com.au/Attraction_Review-g1389361-d5823176-Reviews-Unit_27_Total_Conditioning_CrossFit_Gym-Chalong_Phuket_Town_Phuket.html" class="_blank button-27 cta" rel="nofollow">+200 More - 5 Star Reviews</a> </div>
+           
+            </div>
         <div class="light-down"></div>
         <div class="light-down-arrow"></div>
     </aside>

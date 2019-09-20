@@ -109,7 +109,7 @@ if($d['contact']==1){
                     <h2>Contact Alpha 7 Seas</h2>
                     <p>If you have questions about our training and fitness classes, facilities, pricing or any other general inquiry, please contact us via the following options so that one of our helpful customer service staff can get back to you and help you pick the training that is right for you.</p>
                     <p>Phone: +91.86528.36777 / 90043.06777
-                        <br /> Email: <a class="btn-contact" href="/ajax/?view=contact">info@alpha7seas.com</a>
+                        <br /> Email: <a class="btn-contact" href="/contact.php">ask@alpha7seas.com</a>
                         <br /> Reviews: <a href="http://www.tripadvisor.in/Attraction_Review-g1389361-d5823176-Reviews-Unit_27-Chalong_Phuket_Town_Phuket.html" class="_blank">Trip Advisor</a></p>
                     <div class="social-icons">
                         <a href="https://www.instagram.com/alpha7seas/" title="Alpha 7 Seas on Instagram" class="social-icon icon-instagram-filled _blank"></a>
@@ -117,7 +117,7 @@ if($d['contact']==1){
                         <a href="/ajax/?view=contact" title="Email Alpha 7 Seas" class="btn-contact social-icon icon-mail-1"></a>
                     </div>
                     
-                    <p>Mailing Address: <a rel="nofollow" href="#map">Shop No.1, C Wing, Platinum Heights, Mhada Junction, Andheri West, Near Versova Telephone Exchange, Mumbai 400053, India</a></p>
+                    <p>Mailing Address: <a rel="nofollow" href="#map">Alpha 7 Seas Gym, Shop No. A1, Platinum Heights, Mhada Layout Lokhandwala, Andheri West, Mumbai 400053</a></p>
                     
                 </article>
             </div>
@@ -125,12 +125,7 @@ if($d['contact']==1){
                 <div class="collapsible-share-widget" data-source="alpha7seas" data-url="/contact/" data-title="Contact Us" data-img="/_images/default/unit-27.jpg" data-desc="Alpha 7 Seas is a dedicated Fitness, Weight Loss, Strength & Conditioning, CrossFit & Personal training gym. Train with Alpha 7 Seas to discover our dedication to your fitness and weight goals.">
                     <ul class="visible-button-27s">
                         <li class="sharing-item icon-facebook" data-share-type="facebook" title="Share on Facebook"> <span class="share-text">Share</span> </li>
-                        <li class="sharing-item icon-twitter" data-share-type="twitter" title="Tweet this page to your followers"> <span class="share-text">Tweet</span> </li>
-                        <li class="sharing-item icon-gplus" data-share-type="googleplus" title="Share on your Google +"> <span class="share-text">Google+</span> </li>
-                        <li class="sharing-item icon-stumbleupon" data-share-type="stumbleupon" title="Share on Stumble Upon"> <span class="share-text">Stumble Upon</span> </li>
-                        <li class="sharing-item icon-tumblr" data-share-type="tumblr" title="Share on Tumblr"> <span class="share-text">Tumblr</span> </li>
-                        <li class="sharing-item icon-pinterest" data-share-type="pinterest" title="Share on your Pinterest"> <span class="share-text">Pinterest</span> </li>
-                        <li class="sharing-item icon-reddit" data-share-type="reddit" title="Share on Reddit"> <span class="share-text">Reddit</span> </li>
+                        <li class="sharing-item icon-pinterest" data-share-type="interest" title="Share on your Pinterest"> <span class="share-text">Instagram</span> </li>
                     </ul>
                 </div>
                
@@ -146,14 +141,7 @@ if($d['contact']==1){
         </div>
         <div class="dark-down-arrow"></div>
     </div>
-    <section class="membership content-container dark">
-        <div class="inner-content-container">
-            <h2>Pricing &amp; Packages</h2>
-            <p> Good strength and conditioning training shouldn't cost you an arm and a leg. Here at Alpha 7 Seas we want to help make your arms and legs stronger with our dedicated <a href="/weight-loss/" title="Weight Loss Koh Samui">weight loss</a> and advanced <a href="/fitness/" title="Fitness Koh Samui">fitness training</a> sessions. Check out our session packages pricing and pick the one that is right for you when visiting, working, living or holidaying on beautiful Koh Samui, Thailand. </p>
-            <p>Alpha 7 Seas session packages do not contain any hidden fee's or charges. You can even sign up before you turn up by accessing our <a href="http://www.unit-27booking.com/" class="_blank">Alpha 7 Seas booking app</a> and securing your spots before the daily classes fill up completely. Advanced bookings are required for all classes as spots are limited for each session.</p> <a href="/pricing/" class="button-27 cta">View pricing</a> </div>
-        <div class="light-down-arrow"></div>
-    </section>
-
+   
     <?php include 'files/footer.php'; ?>
 </body>
 

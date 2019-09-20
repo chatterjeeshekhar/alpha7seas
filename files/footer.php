@@ -7,20 +7,20 @@
                 <div class="col-f"></div>
                 <div class="col-f">
                     <h6>About</h6>
-                    <p>Alpha 7 Seas is a dedicated fitness and <strong>weight loss gym</strong> centrally located and ready to help you achieve your strength, conditioning, CrossFit and <a href="/personal-training/">personal training</a> goals.</p>
-                    <p>Alpha 7 Seas is part of a much larger group of Thailand based fitness facilities known as the <a href="/unit-27-group/">Alpha 7 Seas Group</a>, if you are travelling and want to maintain your training, check out our other fitness facilities in Thailand.</p>
+                    <p>Alpha 7 Seas is a dedicated Strength &amp; Conditioning gym centrally located and ready to help you achieve your strength, conditioning, cross- functional and personal training goals.</p><p>Our mission is to help you achieve your personal goals, be it on the field, the court, the mountain or just keeping up with your kids and grandkids.</p>
+                    </p>
                 </div>
                 <div class="col-f">
                     <h6>Contact</h6>
-                    <p>Address: 73 Bophut Koh Samui
-                        <br> Surat Thani 84320
-                        <br> Thailand
+                    <p><b>Address:</b> Shop A1
+                        <br>Platinum Heights, Mhada Layout
+                        <Br>Near Versova Telephone Exchange
+                        <br>Andheri West, Mumbai 400053
                         <br>
-                        <br> Phone: +66 (0) 54 906 5530
+                        <br> Phone: +91 86528 36777
                         <br> Email:
-                        <a class="btn-contact email-text" href="ajax/?view=contact"></a>
-                        <br> Reviews: <a href="http://www.tripadvisor.in/Attraction_Review-g1389361-d5823176-Reviews-Unit_27-Chalong_Phuket_Town_Phuket.html" class="_blank">Trip Advisor</a>
-                        <br> Privacy: <a href="privacy-policy/">Privacy Policy</a>
+                        <a class="btn-contact email-text" href="/contact"></a>
+                        
                         <br> </p>
                     <div class="social-icons">
                         <a href="https://www.instagram.com/alpha7seas/" title="Alpha 7 Seas on Instagram" class="social-icon icon-instagram-filled _blank"></a>

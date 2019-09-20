@@ -30,12 +30,11 @@
                             <li class="nav-sessions "> <a href="sessions/">Sessions <span class="drop"></span></a> </li>
                             
                             <li class="nav-pricing <?php if(basename($_SERVER['PHP_SELF'])=="pricing.php"){echo 'active';} ?>"> <a href="pricing.php">Pricing</a> </li>
-                            <li class="nav-blog "> <a href="blog/">Blog </a>
-                            </li>
+                            
                             <li data-hover="mega" <?php if(basename($_SERVER['PHP_SELF'])=="about.php" || basename($_SERVER['PHP_SELF'])=="locations.php" || basename($_SERVER['PHP_SELF'])=="team.php" || basename($_SERVER['PHP_SELF'])=="mission.php"){echo 'class="active"';} ?>> <a href="about.php">About </a>
                             </li>
                             <li class="nav-email<?php if(basename($_SERVER['PHP_SELF'])=="contact.php"){echo ' active';} ?>">
-                                <a href="contact.php" class="btn-contact2 icon-mail-1"></a>
+                                <a href="contact.php">Contact</a>
                             </li>
                         </ul>
                     </nav>

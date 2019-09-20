@@ -53,10 +53,10 @@
 
 <body class="page-template page-template-page-templates page-template-page_parent page-template-page-templatespage_parent-php page page-id-2 page-parent woocommerce-no-js">
     <?php include 'files/header.php'; ?>
-    <div class="splash-wrapper content-container dark "> <img src="/_images/newimg/T1.JPG" alt="Strength &#038; Conditioning Training, Mumbai, India" width="1920" height="1080" class="seoimg">
+    <div class="splash-wrapper content-container dark "> <img src="/_images/newimg/T1.JPG" alt="Strength &#038; Conditioning Training" width="1920" height="1080" class="seoimg">
         <div class="splash-content">
             <div class="main-title">
-                <h1>Strength &#038; Conditioning Training, Mumbai, India</h1> </div>
+                <h1>Strength &#038; Conditioning Training</h1> </div>
             
         </div>
         <div class="light-down-arrow" id="more-info"></div>
@@ -64,15 +64,15 @@
     <section class="promo content-container dark">
         <div class="inner-content-container no-cta">
             <h2>India's Top Body Transformation Gym </h2>
-            <p>Hundreds of people have placed their trust in us here at Alpha 7 Seas since we opened. From total beginners, to those restarting their fitness regime or just looking to transform their bodies, all the way up to national/world class professional athletes. All have recognised the Alpha 7 Seas commitment, passion and drive for all things health &amp; fitness related in Mumbai. It’s not just a job for “Alpha 7 Seas Team“, it’s our way of life!</p><p>Our daily sessions range from morning Drill Sergeant, through to Kalorie Killa, Rapid Fire, Revolutions and many more. All are scientifically designed, and proven, to get you results quickly. All sessions can be regressed, or progressed accordingly, meaning that EVERYONE can find their level immediately and get the most from every class.</p>
+            <p>Hundreds of people have placed trust in us here at Alpha 7 Seas since we opened. From total beginners, to those restarting their fitness regime or just looking to transform their bodies, all the way up to National/World Class Professional athletes. All have recognised the Alpha 7 Seas commitment, passion and drive for all things health &amp; fitness related in Mumbai. It’s not just a job for the “Alpha 7 Seas team”, it’s our way of life!</p><p>Our daily group classes are scientifically designed and proven to get you results quickly. All sessions can be regressed, or progressed accordingly, meaning that EVERYONE can find their level immediately and get the most from every class</p>
         </div>
         <div class="light-down-arrow"></div>
     </section>
     <section class="training content-container" id="classes">
         <div class="inner-content-container">
             <br>
-            <h2 class="sub-title">Strength &amp; Conditioning</h2>
-            <p>Strength & Conditioning is a combination of compound movements and high-intensity interval training that provides lasting fitness and enhanced endurance. Once you start training, every step will throw up a new surprise- of what your body is capable of. It’s a myth that S&C is meant only for professional athletes. The training actually involves systematic programs designed for people of all ages. The routines help you get functionally fit and improve your strength, speed, power, and athletic performance.</p>
+            <h2 class="sub-title">Strength &amp; Conditioning Classes</h2>
+            <p>Fitness is more fun with friends! We offer a variety of classes to keep fitness exciting and effective. This is a constantly varied functional movements performed at high intensity. Functional movements reflect the best aspects of gymnastics, weightlifting, running, rowing and more. We offer S&amp;C classes from Monday to Friday. Saturday’s we have an S&amp;C Community class. Members can see an entire week’s programming in advance by logging into their Wodify Athlete account.</p>
             <br>
             <div class="col-items">
                 <div class="col-res ">
@@ -91,14 +91,7 @@
                         <p>It’s one of the advance classes at Alpha 7 Seas. Which can be scaled. The workouts make use of cardio equipments.</p>
                     </article>
                 </div>
-                <!--<div class="col-res ">
-                    <article class="snippet">
-                        <a href="/strength-and-conditioning/rapid-fire/">
-                            <div class="img"> <img class="snippet-image" src="/wp-content/uploads/2018/12/increased-strength-and-stamina-unit-27-koh-samui-thailand-360x250.jpg" alt="Increased Strength And Stamina Alpha 7 Seas India" width="360" height="250"> </div>
-                            <h1>Crossfit Gymnastics</h1> </a>
-                        <p>This class aims at teaching gymnastics skills such as pull ups, chest to bar pull ups, Muscle ups, Handstand etc.</p>
-                    </article>
-                </div>-->
+                
                 <div class="col-res ">
                     <article class="snippet">
                         <a href="/strength-and-conditioning/wod/">
@@ -131,8 +124,14 @@
                         <p>This is female only class. It focuses on targeting typical problem areas that women have such as tummy, hips and thighs.</p>
                     </article>
                 </div>
+                
             </div>
-            <br> </div>
+            <h2 class="sub-title">Personal Training Classes</h2>
+            <p>If you're looking for expert 1-on-1 in person coaching, look no further. In-person training with a Coach can be customised to meet your health and fitness goals.<Br>Each coach has their own pricing structure commensurate with their qualifications. So once you have found the coach you're interested in, just drop us a mail at ask@alpha7seas.com and we will be happy to connect you to the Coach.</p>
+            <br> 
+            <h2 class="sub-title">Online Training</h2>
+            <p>Coming Soon!</p>
+            <br><Br></div>
         <div class="dark-down-arrow"></div>
     </section>
     
