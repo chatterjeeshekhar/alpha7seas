@@ -7,7 +7,7 @@
                 <div class="col-f"></div>
                 <div class="col-f">
                     <h6>About</h6>
-                    <p>Alpha 7 Seas is a dedicated Strength &amp; Conditioning gym centrally located and ready to help you achieve your strength, conditioning, cross- functional and personal training goals.</p><p>Our mission is to help you achieve your personal goals, be it on the field, the court, the mountain or just keeping up with your kids and grandkids.</p>
+                    <p>Alpha 7 Seas is a dedicated strength &amp; conditioning gym centrally located and ready to help you achieve your strength, conditioning, cross- functional and personal training goals.</p><p>Our mission is to help you achieve your personal goals, be it on the field, the court, the mountain or just keeping up with your kids and grandkids.</p>
                     </p>
                 </div>
                 <div class="col-f">

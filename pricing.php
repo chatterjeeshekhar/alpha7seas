@@ -189,7 +189,7 @@
                 </tbody>
             </table>
             <br>
-            <br> <a href="/ajax/?view=contact" class="button-27 btn-contact">Contact Us</a>
+            <br> <a href="/contact.php" class="button-27 btn-contact">Contact Us</a>
             <br>
             <br>
             <br>

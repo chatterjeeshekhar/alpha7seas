@@ -77,7 +77,7 @@
             <div class="col-items">
                 <div class="col-res ">
                     <article class="snippet">
-                        <a href="/strength-and-conditioning/rapid-fire/">
+                        <a>
                             <div class="img"> <img class="snippet-image" src="/_images/newimg/image2.jpeg" alt="Increased Strength And Stamina Alpha 7 Seas India" width="360" height="250"> </div>
                             <h1>Crossfit</h1> </a>
                         <p>The top CROSSFIT training gym in mumbai. Constantly varied functional movement performed at high intensity. The workout are scaled and modified to each athlete’s level and performed at the highest intensity.</p>
@@ -85,7 +85,7 @@
                 </div>
                 <div class="col-res ">
                     <article class="snippet">
-                        <a href="/strength-and-conditioning/rapid-fire/">
+                        <a>
                             <div class="img"> <img class="snippet-image" src="/_images/newimg/image5.jpeg" alt="Increased Strength And Stamina Alpha 7 Seas India" width="360" height="250"> </div>
                             <h1>Death by Machine</h1> </a>
                         <p>It’s one of the advance classes at Alpha 7 Seas. Which can be scaled. The workouts make use of cardio equipments.</p>
@@ -94,7 +94,7 @@
                 
                 <div class="col-res ">
                     <article class="snippet">
-                        <a href="/strength-and-conditioning/wod/">
+                        <a>
                             <div class="img"> <img class="snippet-image" src="/_images/newimg/image10.jpeg" alt="Weighted Box Jumps Fitness Training Alpha 7 Seas India" width="360" height="250"> </div>
                             <h1>Move Some Tin</h1> </a>
                         <p>In this class we focus on the following techniques: Olympic lifting movements – clean &amp; Jerk and Snatch, powerlifting movements – Deadlift, bench press and squat.</p>
@@ -102,7 +102,7 @@
                 </div>
                 <div class="col-res ">
                     <article class="snippet">
-                        <a href="/strength-and-conditioning/rapid-fire/">
+                        <a>
                             <div class="img"> <img class="snippet-image" src="/_images/newimg/image7.jpeg" alt="Increased Strength And Stamina Alpha 7 Seas India" width="360" height="250"> </div>
                             <h1>Kalorie Killa</h1> </a>
                         <p>A HIIT session based around the fundamentals of fat loss, time on time off ensuring that your heart rate drops and increases in intervals.</p>
@@ -110,7 +110,7 @@
                 </div>
                 <div class="col-res ">
                     <article class="snippet">
-                        <a href="/strength-and-conditioning/rapid-fire/">
+                        <a>
                             <div class="img"> <img class="snippet-image" src="/_images/newimg/image8.jpeg" alt="Increased Strength And Stamina Alpha 7 Seas India" width="360" height="250"> </div>
                             <h1>Race Horse</h1> </a>
                         <p>This is Alpha 7 seas exclusive running club. The program is focused on basics and training for outdoor running.</p>
@@ -118,7 +118,7 @@
                 </div>
                 <div class="col-res ">
                     <article class="snippet">
-                        <a href="/strength-and-conditioning/rapid-fire/">
+                        <a>
                             <div class="img"> <img class="snippet-image" src="/_images/newimg/image9.jpeg" alt="Increased Strength And Stamina Alpha 7 Seas India" width="360" height="250"> </div>
                             <h1>Boms and Moms</h1> </a>
                         <p>This is female only class. It focuses on targeting typical problem areas that women have such as tummy, hips and thighs.</p>
