@@ -130,6 +130,18 @@
                             <img src="_images\team\ameya.png" alt="Increased Strength And Stamina Alpha 7 Seas India" width="250" height="250"><br>
                             <h4>Ameya Namjoshi - Head Coach</h4></a>
                     </article>
+                </div><div class="col-res ">
+                    <article class="snippet" style="text-align:center">
+                        <a>
+                            <img src="_images\team\rishi.png" alt="Increased Strength And Stamina Alpha 7 Seas India" width="250" height="250"><br>
+                            <h4>Rishi Solanki - Head Coach</h4></a>
+                    </article>
+                </div><div class="col-res ">
+                    <article class="snippet" style="text-align:center">
+                        <a>
+                            <img src="_images\team\vishal.png" alt="Increased Strength And Stamina Alpha 7 Seas India" width="250" height="250"><br>
+                            <h4>Vishal Mota - Coach</h4></a>
+                    </article>
                 </div>
             </div>
             <br> </div>
