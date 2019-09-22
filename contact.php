@@ -114,7 +114,7 @@ if($d['contact']==1){
                     <div class="social-icons">
                         <a href="https://www.instagram.com/alpha7seas/" title="Alpha 7 Seas on Instagram" class="social-icon icon-instagram-filled _blank"></a>
                         <a href="https://www.facebook.com/alpha7seas/" title="Alpha 7 Seas on Facebook" class="social-icon icon-facebook _blank"></a>
-                        <a href="/ajax/?view=contact" title="Email Alpha 7 Seas" class="btn-contact social-icon icon-mail-1"></a>
+                        <a href="mailto:ask@alpha7seas.com" title="Email Alpha 7 Seas" class="btn-contact1 social-icon icon-mail-1"></a>
                     </div>
                     
                     <p>Mailing Address: <a rel="nofollow" href="#map">Alpha 7 Seas Gym, Shop No. A1, Platinum Heights, Mhada Layout Lokhandwala, Andheri West, Mumbai 400053</a></p>
@@ -122,10 +122,10 @@ if($d['contact']==1){
                 </article>
             </div>
             <aside class="col-right">
-                <div class="collapsible-share-widget" data-source="alpha7seas" data-url="/contact/" data-title="Contact Us" data-img="/_images/default/unit-27.jpg" data-desc="Alpha 7 Seas is a dedicated Fitness, Weight Loss, Strength & Conditioning, CrossFit & Personal training gym. Train with Alpha 7 Seas to discover our dedication to your fitness and weight goals.">
+                <div class="collapsible-share-widget" data-source="alpha7seas" data-url="http://www.alpha7seas.com/contact.php" data-title="Contact Us" data-img="/_images/default/unit-27.jpg" data-desc="Alpha 7 Seas is a dedicated Fitness, Weight Loss, Strength & Conditioning, CrossFit & Personal training gym. Train with Alpha 7 Seas to discover our dedication to your fitness and weight goals.">
                     <ul class="visible-button-27s">
                         <li class="sharing-item icon-facebook" data-share-type="facebook" title="Share on Facebook"> <span class="share-text">Share</span> </li>
-                        <li class="sharing-item icon-pinterest" data-share-type="interest" title="Share on your Pinterest"> <span class="share-text">Instagram</span> </li>
+                        <a class="sharing-item icon-pinterest" href="https://www.instagram.com/alpha7seas/" target="_new" title="Share on your Pinterest"> Instagram </a>
                     </ul>
                 </div>
                
