@@ -56,7 +56,7 @@
     <div class="splash-wrapper content-container dark "> <img src="/_images/newimg/T1.JPG" alt="Strength &#038; Conditioning Training" width="1920" height="1080" class="seoimg">
         <div class="splash-content">
             <div class="main-title">
-                <h1>Strength &#038; Conditioning Training</h1> </div>
+                <h1>Training</h1> </div>
             
         </div>
         <div class="light-down-arrow" id="more-info"></div>
@@ -74,6 +74,7 @@
             <h2 class="sub-title">Strength &amp; Conditioning Classes</h2>
             <p>Fitness is more fun with friends! We offer a variety of classes to keep fitness exciting and effective. This is a constantly varied functional movements performed at high intensity. Functional movements reflect the best aspects of gymnastics, weightlifting, running, rowing and more. We offer S&amp;C classes from Monday to Friday. Saturday’s we have an S&amp;C Community class. Members can see an entire week’s programming in advance by logging into their Wodify Athlete account.</p>
             <br>
+            <!--
             <div class="col-items">
                 <div class="col-res ">
                     <article class="snippet">
@@ -126,14 +127,26 @@
                 </div>
                 
             </div>
-            <h2 class="sub-title">Personal Training Classes</h2>
+        -->
+
+            
+    </section>
+    <img src="\_images\fwdwebchanges\Class.jpeg" width="100%">
+      <section class="promo content-container">
+    <div class="inner-content-container">
+        <h2 class="sub-title">Personal Training Classes</h2>
             <p>If you're looking for expert 1-on-1 in person coaching, look no further. In-person training with a Coach can be customised to meet your health and fitness goals.<Br>Each coach has their own pricing structure commensurate with their qualifications. So once you have found the coach you're interested in, just drop us a mail at ask@alpha7seas.com and we will be happy to connect you to the Coach.</p>
-            <br> 
+            <br> </div>
+    </section>
+    <img src="\_images\fwdwebchanges\PT.jpeg" width="100%">
+      <section class="promo content-container">
+    <div class="inner-content-container">
             <h2 class="sub-title">Online Training</h2>
             <p>Coming Soon!</p>
             <br><Br></div>
-        <div class="dark-down-arrow"></div>
     </section>
+
+
     
     <?php include 'files/footer.php'; ?>
 </body>

@@ -53,7 +53,7 @@
 
 <body class="page-template page-template-page-templates page-template-page_parent page-template-page-templatespage_parent-php page page-id-96 woocommerce-no-js">
     <?php include 'files/header.php'; ?>
-    <div class="splash-wrapper content-container dark "> <img src="/_images/newimg/P1.JPG" alt="Pricing &#038; Packages" width="1920" height="1080" class="seoimg">
+    <div class="splash-wrapper content-container dark "> <img src="/_images/fwdwebchanges/Pricing.jpg" alt="Pricing &#038; Packages" width="1920" height="1080" class="seoimg">
         <div class="splash-content">
             <div class="main-title">
                 <h1>Pricing &#038; Packages</h1> </div>

@@ -1350,10 +1350,10 @@ article.u27ge {
 .testimonials {
     margin-top: -50px!important;
     background: transparent url(/_images/default/testimonials-bg.jpg) center center no-repeat!important;
-    background-size: cover;
+    background-size: auto 100%;
     -webkit-background-size: cover;
-    min-height: 1000px;
-    height: 1080px
+    min-width: 100%;
+    height: 1080px;
 }
 
 .testimonials .inner-content-container {

@@ -66,7 +66,7 @@ if($d['contact']==1){
 
 <body class="page-template-default page page-id-1432 woocommerce-no-js">
     <?php include 'files/header.php'; ?>
-    <div class="splash-wrapper content-container dark "> <img src="/_images/newimg/C1.JPG" alt="Contact Us" width="1920" height="1080" class="seoimg">
+    <div class="splash-wrapper content-container dark "> <img src="/_images/fwdwebchanges/Contact Us.jpg" alt="Contact Us" width="1920" height="1080" class="seoimg">
         <div class="splash-content">
             <div class="main-title">
                 <h1>Contact Us</h1> </div>
@@ -83,19 +83,55 @@ if($d['contact']==1){
                             </span><span class="navxt-seperator">&gt;</span>Contact Us </div>
                     </div>
                     <h2>Reach out to us</h2>
-                    <form class="form-style" method="post">
-                        <input type="text" name="name" placeholder="Your name"><br>
-                        <input type="email" name="email" placeholder="Your email"><br>
-                        <select name="type">
-                            <option>-- Select Purpose --</option>
+                    <form class="form-style" onsubmit="return false;" method="post" id="contactform">
+                        <input type="text" id="fname" placeholder="Your first name"><br>
+                        <input type="text" id="lname" placeholder="Your last name"><br>
+                        <input type="email" id="email" placeholder="Your email"><br>
+                        <input type="tel" maxlength="10" id="phone" placeholder="Your phone"><br>
+                        <select id="enqType">
+                            <option value="">-- Select Purpose --</option>
                             <option value="1">Membership Inquiry</option>
                             <option value="2">Business Inquiry</option>
-                            <option value="2">Franchise Inquiry</option>
+                            <option value="3">Franchise Inquiry</option>
                         </select><br>
-                        <textarea rows="6" name="message" placeholder="Enter message" ></textarea>
+                        <textarea rows="6" id="message" placeholder="Enter message" ></textarea>
                         <br>
-                        <input type="submit" class="button-27" style="color: white" value="Submit Form" name="contact">
+                        <button class="button-27" style="color: white" onclick="contact()">Submit Form</button>
                     </form>
+                    <script type="text/javascript">
+                    function contact(){
+                        var fname = document.getElementById("fname").value;
+                        var lname = document.getElementById("lname").value;
+                        var email = document.getElementById('email').value;
+                        var phone = document.getElementById("phone").value;
+                        var type = document.getElementById("enqType").value;
+                        var message = document.getElementById("message").value;
+                        //document.getElementById("message").value = url;
+                        var m = "";
+                        var e = "";
+                        if(type==1){
+                            m = "Membership inquiry";
+                            e = "ask@alpha7seas.com";
+                        }
+                        if(type==2){
+                            m = "Business Inquiry";
+                            e = "ashish@alpha7seas.com";
+                        }
+                        if(type==3){
+                            m = "Franchise Inquiry";
+                            e = "ashish@alpha7seas.com";
+                        }
+                        var url = "https://formspree.io/"+e+"?fname="+fname+"&lname="+lname+"&email="+email+"&phone="+phone+"&type="+m+"&message="+message;
+                        document.getElementById("contactform").action = url;
+                        document.getElementById("contactform").submit();
+                        document.getElementById("fname").value = "";
+                        document.getElementById("lname").value = "";
+                        document.getElementById("email").value = "";
+                        document.getElementById("phone").value = "";
+                        document.getElementById("message").value = "";
+                        document.getElementById("enqType").value = "";
+                    }
+                    </script>
                     <style type="text/css">
                         .form-style input, textarea, select {
                                 width: 70%;

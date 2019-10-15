@@ -54,16 +54,13 @@
 
 <body class="home blog woocommerce-no-js">
     <?php include 'files/header.php'; ?>
-    <aside class="splash-wrapper">
-        <div class="fullscreen-slider">
-            <div class="image-holder"></div>
-            <ul class="content-holder"></ul>
+    <div class="splash-wrapper content-container dark "> <img src="/_images/fwdwebchanges/Homepage.jpg" alt="Home" width="1920" height="1080" class="seoimg">
+        <div class="splash-content">
+            <div class="main-title">
+             </div>
         </div>
-        <div class="prev-class"></div>
-        <div class="session-btn-wrapper1"></div>
-        <div class="next-class"></div>
-        <div class="light-down-arrow"></div>
-    </aside>
+        <div class="light-down-arrow" id="more-info"></div>
+    </div>
     <section class="promo content-container dark">
         <div class="inner-content-container">
             <h2>Go Hard Or Go Home</h2>
