@@ -1507,13 +1507,30 @@ article.u27ge {
     color: #fff;
     min-height: 3rem;
     cursor: pointer;
-    padding: 0 25px 0 15px;
+    padding: 0 25px 0 25px;
     float: left;
     line-height: 2.88rem;
     margin: 0 5px 5px 0
 }
 
 .collapsible-share-widget .sharing-item:hover {
+    opacity: .9
+}
+
+.collapsible-share-widget .sharing-item1 {
+    display: block;
+    position: relative;
+    text-decoration: none;
+    color: #fff;
+    min-height: 3rem;
+    cursor: pointer;
+    padding: 0 25px 0 25px;
+    float: left;
+    line-height: 2.88rem;
+    margin: 0 5px 5px 0
+}
+
+.collapsible-share-widget .sharing-item1:hover {
     opacity: .9
 }
 

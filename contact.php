@@ -161,7 +161,7 @@ if($d['contact']==1){
                 <div class="collapsible-share-widget" data-source="alpha7seas" data-url="http://www.alpha7seas.com/contact.php" data-title="Contact Us" data-img="/_images/default/unit-27.jpg" data-desc="Alpha 7 Seas is a dedicated Fitness, Weight Loss, Strength & Conditioning, CrossFit & Personal training gym. Train with Alpha 7 Seas to discover our dedication to your fitness and weight goals.">
                     <ul class="visible-button-27s">
                         <li class="sharing-item" style="background-color:#3b5998" data-share-type="facebook" title="Share on Facebook"> <span class="share-text">Share</span> </li>
-                        <a class="sharing-item" style="background-color:#c92228" href="https://www.instagram.com/alpha7seas/" target="_new" title="Share on your Pinterest"> Instagram </a>
+                        <a class="sharing-item1" style="background-color:#c92228" href="https://www.instagram.com/alpha7seas/" target="_new" title="Share on your Pinterest"> Instagram </a>
                     </ul>
                 </div>
                
