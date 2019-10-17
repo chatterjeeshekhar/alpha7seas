@@ -42,7 +42,7 @@ if($d['contact']==1){
     <link type="text/css" rel="stylesheet" href="/_css/default/style.min.css" />
     <link type="image/png" rel="icon" href="/favicon.png" />
     <!--[if lt IE 9]> <link type="text/css" rel="stylesheet" href="/_css/default/ie.css" /> <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.js"></script> <![endif]-->
-    <title>Contact us &middot; Phuket &middot; Alpha 7 Seas</title>
+    <title>Contact us &middot; Alpha 7 Seas</title>
     <meta name="description" content="Contact Alpha 7 Seas if you have a question about our classes, prices or other facilities." />
     <link rel="canonical" href="<?php echo $mainUrl;?>contact.php" />
     <?php include 'files/top.php'; ?>
@@ -148,8 +148,8 @@ if($d['contact']==1){
                         <br /> Email: <a class="btn-contact" href="/contact.php">ask@alpha7seas.com</a>
                         <br /> Reviews: <a href="http://www.tripadvisor.in/Attraction_Review-g1389361-d5823176-Reviews-Unit_27-Chalong_Phuket_Town_Phuket.html" class="_blank">Trip Advisor</a></p>
                     <div class="social-icons">
-                        <a href="https://www.instagram.com/alpha7seas/" title="Alpha 7 Seas on Instagram" class="social-icon icon-instagram-filled _blank"></a>
-                        <a href="https://www.facebook.com/alpha7seas/" title="Alpha 7 Seas on Facebook" class="social-icon icon-facebook _blank"></a>
+                        <a href="https://www.instagram.com/alpha7seas/" title="Alpha 7 Seas on Instagram" style="background-color:#3b5998"></a>
+                        <a href="https://www.facebook.com/alpha7seas/" title="Alpha 7 Seas on Facebook" style="background-color:#c92228"></a>
                         <a href="mailto:ask@alpha7seas.com" title="Email Alpha 7 Seas" class="btn-contact1 social-icon icon-mail-1"></a>
                     </div>
                     

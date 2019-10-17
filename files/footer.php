@@ -25,7 +25,7 @@
                     <div class="social-icons">
                         <a href="https://www.instagram.com/alpha7seas/" title="Alpha 7 Seas on Instagram" class="social-icon icon-instagram-filled _blank"></a>
                         <a href="https://www.facebook.com/alpha7seas/" title="Alpha 7 Seas on Facebook" class="social-icon icon-facebook _blank"></a>
-                        <a href="ajax/?view=contact" title="Email Alpha 7 Seas" class="btn-contact social-icon icon-mail-1"></a>
+                        <a href="/contact.php" title="Email Alpha 7 Seas" class="btn-contact1 social-icon icon-mail-1"></a>
                     </div>
                 </div>
             </div>

@@ -100,7 +100,11 @@
                             <img src="_images\team\06.png" alt="Increased Strength And Stamina Alpha 7 Seas India" width="250" height="250"><br>
                             <h4>Raghunath Chindakar - Co Founder</h4></a>
                     </article>
-                </div><div class="col-res ">
+                </div>
+            </div>
+            <h2 class="sub-title">Our Coaches</h2>
+            <div class="col-items">
+                <div class="col-res ">
                     <article class="snippet" style="text-align:center">
                         <a>
                             <img src="_images\team\02.png" alt="Increased Strength And Stamina Alpha 7 Seas India" width="250" height="250"><br>

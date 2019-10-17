@@ -1,5 +1,5 @@
-    <meta name="theme-color" value="#000000"
->    <header id="top">
+    <meta name="theme-color" value="#000000">
+    <header id="top">
         <aside class="container top-bar">
             <div class="inner-container">
                 <div class="top-bar-items">
@@ -42,3 +42,4 @@
             </div>
         </div>
     </header>
+    <div style="height:171px;background-color:#000"></div>

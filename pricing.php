@@ -144,10 +144,10 @@
                     </tr>
                     <tr>
                         <td>Gym Membership <a href="#" class="_info" title="Work permit or visa must be provided upon joining process">?</a></td>
-                        <th><a href="https://rzp.io/i/E3eB8Aw" target="_new">Sign Up Now</a></th>
-                        <th><a href="https://rzp.io/i/5ARhIBC" target="_new">Sign Up Now</a></th>
-                        <th><a href="https://rzp.io/i/ERIkYA9" target="_new">Sign Up Now</a></th>
-                        <th><a href="https://rzp.io/i/4WEAkUp" target="_new">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/yVjAcGy" target="_new">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/pzaRVQz" target="_new">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/UnKbvHn" target="_new">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/22KQ8al" target="_new">Sign Up Now</a></th>
                     </tr>
                     <tr>
                         <th class="pick-text">Pick a training plan</th>
@@ -162,10 +162,10 @@
                     </tr>
                     <tr>
                         <td>Personal Training <a href="#" class="_info" title="Some packages offer a free Alpha 7 Seas Singlet when signing up!">?</a></td>
-                        <th><a href="https://rzp.io/i/tgZGlfk" target="_new">Sign Up Now</a></th>
-                        <th><a href="https://rzp.io/i/zHnhncv" target="_new">Sign Up Now</a></th>
-                        <th><a href="https://rzp.io/i/x2ZLNh1" target="_new">Sign Up Now</a></th>
-                        <th><a href="https://rzp.io/i/4Wc7fIF" target="_new">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/9NisxX6" target="_new">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/ACyA5BJ" target="_new">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/Wk2qo59" target="_new">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/Rh1Mivt" target="_new">Sign Up Now</a></th>
                     </tr>
                     <tr>
                         <th colspan="5"></th>
