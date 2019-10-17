@@ -55,10 +55,7 @@
 <body class="home blog woocommerce-no-js">
     <?php include 'files/header.php'; ?>
     <div class="splash-wrapper content-container dark "> <img src="/_images/fwdwebchanges/Homepage.jpg" alt="Home" width="1920" height="1080" class="seoimg">
-        <div class="splash-content">
-            <div class="main-title">
-             </div>
-        </div>
+        
         <div class="light-down-arrow" id="more-info"></div>
     </div>
     <section class="promo content-container dark">
