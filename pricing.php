@@ -150,7 +150,7 @@
                         <th><a href="https://rzp.io/i/GNkVyKg" target="_new">Sign Up Now</a></th>
                     </tr>
                     <tr>
-                        <td>Payment Link <a href="#" class="_info" title="Work permit or visa must be provided upon joining process">?</a></td>
+                        <td>Amount <a href="#" class="_info" title="Work permit or visa must be provided upon joining process">?</a></td>
                         <th><a>&#8377; 4,500</a></th>
                         <th><a>&#8377; 11,000</a></th>
                         <th><a>&#8377; 21,000</a></th>
@@ -175,7 +175,7 @@
                         <th><a href="https://rzp.io/i/g3fDkki" target="_new">Sign Up Now</a></th>
                     </tr>
                     <tr>
-                        <td>Payment Link <a href="#" class="_info" title="Work permit or visa must be provided upon joining process">?</a></td>
+                        <td>Amount <a href="#" class="_info" title="Work permit or visa must be provided upon joining process">?</a></td>
                         <th><a>&#8377; 12,000</a></th>
                         <th><a>&#8377; 33,000</a></th>
                         <th><a>&#8377; 15,000</a></th>
