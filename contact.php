@@ -66,10 +66,10 @@ if($d['contact']==1){
 
 <body class="page-template-default page page-id-1432 woocommerce-no-js">
     <?php include 'files/header.php'; ?>
-    <div class="splash-wrapper content-container dark "> <img src="/_images/fwdwebchanges/Contact Us.jpg" alt="Contact Us" width="1920" height="1080" class="seoimg">
+    <div class="splash-wrapper content-container dark "> <img src="/_images/fwdwebchanges/ContactUs.jpg" alt="Alpha 7 Seas" width="1920" height="1080" class="seoimg">
         <div class="splash-content">
             <div class="main-title">
-                <h1>Contact Us</h1> </div>
+                <h1>Contact us</h1> </div>
         </div>
         <div class="light-down-arrow" id="more-info"></div>
     </div>
