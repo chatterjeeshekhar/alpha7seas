@@ -63,8 +63,8 @@
     <section class="promo content-container dark">
         <div class="inner-content-container no-cta">
             <h2>Keeping it simple &#038; affordable</h2>
-            <p>Here at Alpha 7 Seas we like to keep things simple so you can focus hard on your strength &#038; conditioning training, with that in mind we have simple and affordable training packages for you to pick from, ranging from <a href="#session-pricing">session packages</a>, to all inclusive <a href="#inclusive-pricing">boot camp holiday packages</a>, pricing and information below. If you are not interested in a package deal then we always welcome <a href="#walk-in-training">walk in</a> training &#038; use of our facilities. </p>
-            <p>Just remember you have to sign in for each session, two hours in advance! We also have discounts for expats on production of valid work permits &#038; we are working to bring even more products into our packages to keep you fit, healthy and happy.</p>
+            <p>Here at Alpha 7 Seas we like to keep things simple so you can focus hard on your strength &#038; conditioning training, with that in mind we have simple and affordable training packages for you to pick from, ranging from monthly packages, to all inclusive personal training packages, pricing and information below. If you are not interested in a package deal then we always welcome walk in training &#038; use of our facilities. </p>
+    
         </div>
         <div class="light-down-arrow"></div>
     </section>
