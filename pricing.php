@@ -136,7 +136,7 @@
                         <th>
                             <h3>Monthly</h3></th>
                         <th>
-                            <h3>Quaterly</h3></th>
+                            <h3>Quarterly</h3></th>
                         <th>
                             <h3>Half-yearly</h3></th>
                         <th>
@@ -161,11 +161,11 @@
                         <th>
                             <h3>Monthly (Gold)</h3></th>
                         <th>
-                            <h3>Quaterly (Gold)</h3></th>
+                            <h3>Quarterly (Gold)</h3></th>
                         <th>
                             <h3>Monthly (Platinum)</h3></th>
                         <th>
-                            <h3>Quaterly (Platinum)</h3></th>       
+                            <h3>Quarterly (Platinum)</h3></th>       
                     </tr>
                     <tr>
                         <td>Personal Training <a href="#" class="_info" title="Some packages offer a free Alpha 7 Seas Singlet when signing up!">?</a></td>
