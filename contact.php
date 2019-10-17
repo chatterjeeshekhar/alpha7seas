@@ -121,15 +121,19 @@ if($d['contact']==1){
                             m = "Franchise Inquiry";
                             e = "ashish@alpha7seas.com";
                         }
-                        var url = "https://formspree.io/"+e+"?fname="+fname+"&lname="+lname+"&email="+email+"&phone="+phone+"&type="+m+"&message="+message;
-                        document.getElementById("contactform").action = url;
-                        document.getElementById("contactform").submit();
-                        document.getElementById("fname").value = "";
-                        document.getElementById("lname").value = "";
-                        document.getElementById("email").value = "";
-                        document.getElementById("phone").value = "";
-                        document.getElementById("message").value = "";
-                        document.getElementById("enqType").value = "";
+                        if(fname=="" || lname=="" || email=="" || phone=="" || type=="" || message==""){
+                            alert("All fields are mandatory");
+                        } else {
+                            var url = "https://formspree.io/"+e+"?fname="+fname+"&lname="+lname+"&email="+email+"&phone="+phone+"&type="+m+"&message="+message;
+                            document.getElementById("contactform").action = url;
+                            document.getElementById("contactform").submit();
+                            document.getElementById("fname").value = "";
+                            document.getElementById("lname").value = "";
+                            document.getElementById("email").value = "";
+                            document.getElementById("phone").value = "";
+                            document.getElementById("message").value = "";
+                            document.getElementById("enqType").value = "";
+                        }
                     }
                     </script>
                     <style type="text/css">
@@ -145,8 +149,7 @@ if($d['contact']==1){
                     <h2>Contact Alpha 7 Seas</h2>
                     <p>If you have questions about our training and fitness classes, facilities, pricing or any other general inquiry, please contact us via the following options so that one of our helpful customer service staff can get back to you and help you pick the training that is right for you.</p>
                     <p>Phone: +91.86528.36777 / 90043.06777
-                        <br /> Email: <a class="btn-contact" href="/contact.php">ask@alpha7seas.com</a>
-                        <br /> Reviews: <a href="http://www.tripadvisor.in/Attraction_Review-g1389361-d5823176-Reviews-Unit_27-Chalong_Phuket_Town_Phuket.html" class="_blank">Trip Advisor</a></p>
+                        <br /> Email: <a class="btn-contact1" href="mailto:ask@alpha7seas.com">ask@alpha7seas.com</a></p>
                     <div class="social-icons">
                         <a href="https://www.instagram.com/alpha7seas/" title="Alpha 7 Seas on Instagram" style="background-color:#3b5998"></a>
                         <a href="https://www.facebook.com/alpha7seas/" title="Alpha 7 Seas on Facebook" style="background-color:#c92228"></a>
@@ -160,15 +163,15 @@ if($d['contact']==1){
             <aside class="col-right">
                 <div class="collapsible-share-widget" data-source="alpha7seas" data-url="http://www.alpha7seas.com/contact.php" data-title="Contact Us" data-img="/_images/default/unit-27.jpg" data-desc="Alpha 7 Seas is a dedicated Fitness, Weight Loss, Strength & Conditioning, CrossFit & Personal training gym. Train with Alpha 7 Seas to discover our dedication to your fitness and weight goals.">
                     <ul class="visible-button-27s">
-                        <li class="sharing-item" style="background-color:#3b5998" data-share-type="facebook" title="Share on Facebook"> <span class="share-text">Share</span> </li>
-                        <a class="sharing-item1" style="background-color:#c92228" href="https://www.instagram.com/alpha7seas/" target="_new" title="Share on your Pinterest"> Instagram </a>
+                        <a class="sharing-item1" style="background-color:#3b5998" title="Open Facebook" href="https://www.facebook.com/alpha7seas/" target="_new"> <span class="share-text">Facebook</span> </a>
+                        <a class="sharing-item1" style="background-color:#c92228" title="Open Instagram" href="https://www.instagram.com/alpha7seas/" target="_new" title="Share on your Pinterest"> Instagram </a>
                     </ul>
                 </div>
                
                 <h2>Location </h2>
                 <div class="col-items">
                     <div class="col-res ">
-                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3769.3849851183663!2d72.82324741442547!3d19.134618155100785!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b618f894e7a3%3A0xd8c9125de174e1bb!2sAlpha+7+Seas+Gym!5e0!3m2!1sen!2sin!4v1553860912479!5m2!1sen!2sin" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3769.379497051675!2d72.823026814902!3d19.134858587054193!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be7b618f894e7a3%3A0xd8c9125de174e1bb!2sAlpha%207%20Seas%20Gym!5e0!3m2!1sen!2sin!4v1571330071892!5m2!1sen!2sin" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>
                     </div>
                    
                 </div>

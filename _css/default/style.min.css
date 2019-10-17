@@ -461,7 +461,7 @@ header#top .logo:before {
     position: absolute;
     right: -6px;
     top: 27px;
-    background: rgba(233, 100, 18, .55);
+    //background: rgba(233, 100, 18, .55);
     z-index: -1
 }
 

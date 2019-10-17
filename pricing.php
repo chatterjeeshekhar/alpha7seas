@@ -144,10 +144,17 @@
                     </tr>
                     <tr>
                         <td>Gym Membership <a href="#" class="_info" title="Work permit or visa must be provided upon joining process">?</a></td>
-                        <th><a href="https://rzp.io/i/yVjAcGy" target="_new">Sign Up Now</a></th>
-                        <th><a href="https://rzp.io/i/pzaRVQz" target="_new">Sign Up Now</a></th>
-                        <th><a href="https://rzp.io/i/UnKbvHn" target="_new">Sign Up Now</a></th>
-                        <th><a href="https://rzp.io/i/22KQ8al" target="_new">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/8MvgTXo" target="_new">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/5SdtJlb" target="_new">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/YLIoUgb" target="_new">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/GNkVyKg" target="_new">Sign Up Now</a></th>
+                    </tr>
+                    <tr>
+                        <td>Payment Link <a href="#" class="_info" title="Work permit or visa must be provided upon joining process">?</a></td>
+                        <th><a>&#8377; 4,500</a></th>
+                        <th><a>&#8377; 11,000</a></th>
+                        <th><a>&#8377; 21,000</a></th>
+                        <th><a>&#8377; 36,000</a></th>
                     </tr>
                     <tr>
                         <th class="pick-text">Pick a training plan</th>
@@ -162,10 +169,17 @@
                     </tr>
                     <tr>
                         <td>Personal Training <a href="#" class="_info" title="Some packages offer a free Alpha 7 Seas Singlet when signing up!">?</a></td>
-                        <th><a href="https://rzp.io/i/9NisxX6" target="_new">Sign Up Now</a></th>
-                        <th><a href="https://rzp.io/i/ACyA5BJ" target="_new">Sign Up Now</a></th>
-                        <th><a href="https://rzp.io/i/Wk2qo59" target="_new">Sign Up Now</a></th>
-                        <th><a href="https://rzp.io/i/Rh1Mivt" target="_new">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/BXJrMw3" target="_new">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/8QkcOHC" target="_new">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/53pRO4f" target="_new">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/g3fDkki" target="_new">Sign Up Now</a></th>
+                    </tr>
+                    <tr>
+                        <td>Payment Link <a href="#" class="_info" title="Work permit or visa must be provided upon joining process">?</a></td>
+                        <th><a>&#8377; 12,000</a></th>
+                        <th><a>&#8377; 33,000</a></th>
+                        <th><a>&#8377; 15,000</a></th>
+                        <th><a>&#8377; 40,000</a></th>
                     </tr>
                     <tr>
                         <th colspan="5"></th>
