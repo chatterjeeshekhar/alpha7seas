@@ -144,10 +144,10 @@
                     </tr>
                     <tr>
                         <td>Gym Membership <a href="#" class="_info" title="Work permit or visa must be provided upon joining process">?</a></td>
-                        <th><a href="https://rzp.io/i/8MvgTXo" target="_new">Sign Up Now</a></th>
-                        <th><a href="https://rzp.io/i/5SdtJlb" target="_new">Sign Up Now</a></th>
-                        <th><a href="https://rzp.io/i/YLIoUgb" target="_new">Sign Up Now</a></th>
-                        <th><a href="https://rzp.io/i/GNkVyKg" target="_new">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/8MvgTXo" class="button-27" target="_new">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/5SdtJlb" class="button-27" target="_new">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/YLIoUgb" class="button-27" target="_new">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/GNkVyKg" class="button-27" target="_new">Sign Up Now</a></th>
                     </tr>
                     <tr>
                         <td>Amount <a href="#" class="_info" title="Work permit or visa must be provided upon joining process">?</a></td>
@@ -169,10 +169,10 @@
                     </tr>
                     <tr>
                         <td>Personal Training <a href="#" class="_info" title="Some packages offer a free Alpha 7 Seas Singlet when signing up!">?</a></td>
-                        <th><a href="https://rzp.io/i/BXJrMw3" target="_new">Sign Up Now</a></th>
-                        <th><a href="https://rzp.io/i/8QkcOHC" target="_new">Sign Up Now</a></th>
-                        <th><a href="https://rzp.io/i/53pRO4f" target="_new">Sign Up Now</a></th>
-                        <th><a href="https://rzp.io/i/g3fDkki" target="_new">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/BXJrMw3" class="button-27" target="_new">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/8QkcOHC" class="button-27" target="_new">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/53pRO4f" class="button-27" target="_new">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/g3fDkki" class="button-27" target="_new">Sign Up Now</a></th>
                     </tr>
                     <tr>
                         <td>Amount <a href="#" class="_info" title="Work permit or visa must be provided upon joining process">?</a></td>
@@ -188,24 +188,8 @@
                 </tbody>
             </table>
         
-            <br>
-            <br>
-            <h2 class="sub-title ">Your Training Agreement</h2>
-            <p>When training with us at Alpha 7 Seas you agree to the following terms &amp; conditions</p>
-            <br>
-            <table class="plans">
-                <tr>
-                    <td class="b">I will not hold the Alpha 7 Seas Group liable for any pre-existing injuries or medical condition, which may be exacerbated if I participate or which may affect my heart if I participate.</td>
-                </tr>
-                <tr>
-                    <td class="p">I will not hold the Alpha 7 Seas Group liable for any injury, loss or damage, which may be sustained as a result of participating.</td>
-                </tr>
-                </tbody>
-            </table>
-            <br>
             <br> <a href="/contact.php" class="button-27 btn-contac">Contact Us</a>
-            <br>
-            <br>
+        
             <br>
             <br> </div>
         <div class="dark-down-arrow"></div>

@@ -68,7 +68,7 @@
         </div>
         <div class="light-down-arrow"></div>
     </section>
-    <section class="training content-container" id="classes">
+    <section class="promo content-container" id="classes">
         <div class="inner-content-container">
             <br>
             <h2 class="sub-title">Strength &amp; Conditioning Classes</h2>
@@ -128,7 +128,6 @@
                 
             </div>
         -->
-
             
     </section>
     <img src="\_images\fwdwebchanges\Class.jpeg" width="100%">

@@ -51,7 +51,7 @@
     <link rel="profile" href="http://gmpg.org/xfn/11">
     <link rel="pingback" href="/xmlrpc.php"> </head>
 
-<body class="page-template page-template-page-templates page-template-page_parent page-template-page-templatespage_parent-php page page-id-63 woocommerce-no-js">
+<body class="page-template-default page page-id-1432 woocommerce-no-js">
     <?php include 'files/header.php'; ?>
     <div class="splash-wrapper content-container dark "> <img src="/_images/fwdwebchanges/About.JPG" alt="Alpha 7 Seas" width="1920" height="1080" class="seoimg">
         <div class="splash-content">
@@ -60,17 +60,17 @@
         </div>
         <div class="light-down-arrow" id="more-info"></div>
     </div>
-    <section class="promo content-container dark">
+    <section class="training content-container">
         <div class="inner-content-container no-cta">
             <h2>Our commitment to you</h2>
             <p>We like the ‘Old School’ approach here and believe that the customer ALWAYS comes first. You will always be treated in a respectful, polite, professional manner. We exist to to serve you, not the other way round. Our Facility is full with brand new, specialised equipment – the selection of which you will not find anywhere else in Mumbai.<br>
 <br>Our classes are ALWAYS limited in size, ensuring that the instructor/client ration is always optimum and you receive continual support and motivation. Our sessions concentrate on power, mobility, strength and above all correct form & injury prevention.<br>
 <br>Our facility is kept spotlessly clean and all equipment is sanitised after every session.
 </p>
-        </div>
-        <div class="light-down-arrow"></div>
+        </div><br>
+        <div class="dark-down-arrow" id="more-info"></div>
     </section>
-    <aside class="galleries content-container">
+    <aside class="promo content-container dark">
         <div class="inner-content-container">
             <h2 class="sub-title">The Core Team</h2>
             <p>A few select photos of our Grand Opening. Thanks to all for coming along and supporting us, we had a great time and hope you did too :-) </p>
@@ -98,7 +98,7 @@
                     <article class="snippet" style="text-align:center">
                         <a>
                             <img src="_images\team\06.png" alt="Increased Strength And Stamina Alpha 7 Seas India" width="250" height="250"><br>
-                            <h4>Raghunath Chindakar - Co Founder</h4></a>
+                            <h4>R.S Chindakar - Co Founder</h4></a>
                     </article>
                 </div>
             </div>
@@ -149,7 +149,7 @@
                 </div>
             </div>
             <br> </div>
-            <div class="dark-down-arrow"></div>
+            <div class="light-down-arrow"></div>
         </div>
     </aside>
     <div class="cms content-container">

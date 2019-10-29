@@ -1663,6 +1663,49 @@ footer .social-icons .icon-mail-1 {
     color: #fff
 }
 
+.form-style input, textarea, select {
+        width: 70%;
+        padding: 12px 10px;
+        margin: 8px 0;
+        box-sizing: border-box;
+        color: grey;
+        border-radius:0.1;
+}
+.col-d {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    width: 50%;
+    float: left;
+    position: relative;
+    min-height: 1px;
+    text-align: left;
+    font-size: .875rem;
+    padding: 0 15px 50px
+}
+
+.col-d h6 {
+    color: #fff;
+    padding: 0 0 25px
+}
+
+.col-d p {
+    margin: 0 0 20px 0
+}
+
+.col-d p span {
+    color: #fff
+}
+
+.col-d:nth-of-type(2) p,
+.col-d:nth-of-type(3) p {
+    margin: 0 20px 5px 0
+}
+
+.col-d:nth-of-type(1) {
+    padding-right: 60px
+}
+
 .col-f {
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;

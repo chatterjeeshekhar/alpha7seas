@@ -148,7 +148,7 @@ if($d['contact']==1){
                     </style>
                     <h2>Contact Alpha 7 Seas</h2>
                     <p>If you have questions about our training and fitness classes, facilities, pricing or any other general inquiry, please contact us via the following options so that one of our helpful customer service staff can get back to you and help you pick the training that is right for you.</p>
-                    <p>Phone: +91.86528.36777 / 90043.06777
+                    <p>Phone: +91.86528.36777 / 90043.06777 (Mon -Sat 10AM to 8PM)
                         <br /> Email: <a class="btn-contact1" href="mailto:ask@alpha7seas.com">ask@alpha7seas.com</a></p>
                     <div class="social-icons">
                         <a href="https://www.instagram.com/alpha7seas/" title="Alpha 7 Seas on Instagram" style="background-color:#3b5998"></a>
@@ -175,6 +175,10 @@ if($d['contact']==1){
                     </div>
                    
                 </div>
+                <h2>Gym Timings</h2>
+                Mon-Fri 6 AM to 10:30PM<Br>
+                        Saturday 7AM to 10PM<br>
+                        Sunday 7AM to 2 PM
                 
             </aside><br><br><br>
         </div>

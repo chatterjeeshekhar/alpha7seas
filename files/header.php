@@ -20,16 +20,16 @@
         }
         </style>
         <div class="container nav-bar">
-            <div class="inner-container"> <a href="/" title="Alpha 7 Seas - Mumbai Fitness, Weight Loss & Conditioning Gym" class="logo"><span><img src="http://www.alpha7seas.com/assets/images/logo-small.png" height="65%" style="vertical-align:middle;"></span>Alpha 7 Seas</a>
+            <div class="inner-container"> <a href="/" title="Alpha 7 Seas - Mumbai Fitness, Weight Loss & Conditioning Gym" class="logo"><span><img src="_images/logo-small.png" height="65%" style="vertical-align:middle;"></span>Alpha 7 Seas</a>
                 <div class="nav-wrapper">
                     <nav>
                         <ul class="megamenu">
-                            <li data-hover="mega" <?php if(basename($_SERVER['PHP_SELF'])=="training.php"){echo 'class="active"';} ?>> <a href="training.php">Training </a>
+                            <li data-hover="mega" <?php if(basename($_SERVER['PHP_SELF'])=="training.php"){echo 'class="active"';} ?>> <a href="training.php">Program </a>
                                 
                             </li>
-                            <li class="nav-sessions "> <a href="sessions/">Sessions <span class="drop"></span></a> </li>
+                            <li class="nav-sessions "> <a href="sessions/">Schedule </a> </li>
                             
-                            <li class="nav-pricing <?php if(basename($_SERVER['PHP_SELF'])=="pricing.php"){echo 'active';} ?>"> <a href="pricing.php">Pricing</a> </li>
+                            <li class="nav-pricing <?php if(basename($_SERVER['PHP_SELF'])=="pricing.php"){echo 'active';} ?>"> <a href="pricing.php">Tariff</a> </li>
                             
                             <li data-hover="mega" <?php if(basename($_SERVER['PHP_SELF'])=="about.php" || basename($_SERVER['PHP_SELF'])=="locations.php" || basename($_SERVER['PHP_SELF'])=="team.php" || basename($_SERVER['PHP_SELF'])=="mission.php"){echo 'class="active"';} ?>> <a href="about.php">About </a>
                             </li>
