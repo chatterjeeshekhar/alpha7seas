@@ -28,13 +28,18 @@
                             var name = document.getElementById("fName").value;
                             var email = document.getElementById("fEmail").value;
                             var phone = document.getElementById("fPhone").value;
-                            if((date=="" || time=="" || name=="" || email=="" || phone=="") && 1==2){
+                            if((date=="" || time=="" || name=="" || email=="" || phone=="")){
                                 alert("All fields are mandatory");
                             } else {
-                                var url = "sms.php?date="+date+"&time="+time+"&name="+name+"&email="+email+"&phone="+phone;
-                                window.JQuery.get(url, function(data){
-                                    alert(data);
-                                });
+                                var e ="ask@alpha7seas.com";
+                                var url = "https://formspree.io/"+e+"?date="+date+"&name="+name+"&time="+time+"&phone="+phone+"&email"+email;
+                                document.getElementById("footerForm").action = url;
+                                document.getElementById("footerForm").submit();
+                                document.getElementById("fDate").value = "";
+                                document.getElementById("fTime").value = "";
+                                document.getElementById("fName").value = "";
+                                document.getElementById("fEmail").value = "";
+                                document.getElementById("fPhone").value = "";
                             }
                         }
                     </script>

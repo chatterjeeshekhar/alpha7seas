@@ -91,7 +91,7 @@
                 </div><div class="col-res ">
                     <article class="snippet" style="text-align:center">
                         <a>
-                            <img src="_images\team\03.png" alt="Increased Strength And Stamina Alpha 7 Seas India" width="250" height="250"><br>
+                            <img src="_images\team\janshrusth.png" alt="Increased Strength And Stamina Alpha 7 Seas India" width="250" height="250"><br>
                             <h4>Janshruth Thappa - Co Founder</h4></a>
                     </article>
                 </div><div class="col-res ">
