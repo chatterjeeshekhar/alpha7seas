@@ -146,11 +146,11 @@
                     </tr>
                     <tr>
                         <td>Gym Membership <a href="#" class="_info" title="Work permit or visa must be provided upon joining process">?</a></td>
-                        <th><a href="https://rzp.io/i/8MvgTXo" class="button-27" target="_new">Sign Up Now</a></th>
-                        <th><a href="https://rzp.io/i/5SdtJlb" class="button-27" target="_new">Sign Up Now</a></th>
-                        <th><a href="https://rzp.io/i/YLIoUgb" class="button-27" target="_new">Sign Up Now</a></th>
-                        <th><a href="https://rzp.io/i/GNkVyKg" class="button-27" target="_new">Sign Up Now</a></th>
-                        <th><a href="https://rzp.io/i/GNkVyKg" class="button-27" target="_new">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/UeisqSq" class="button-27" target="_new">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/D7ATAMQ" class="button-27" target="_new">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/uCGqR25" class="button-27" target="_new">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/d1CJ5mR" class="button-27" target="_new">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/A4w2Svj" class="button-27" target="_new">Sign Up Now</a></th>
                     </tr>
                     <tr>
                         <td>Amount <a href="#" class="_info" title="Work permit or visa must be provided upon joining process">?</a></td>
@@ -173,10 +173,10 @@
                     </tr>
                     <tr>
                         <td>Personal Training <a href="#" class="_info" title="Some packages offer a free Alpha 7 Seas Singlet when signing up!">?</a></td>
-                        <th><a href="https://rzp.io/i/BXJrMw3" class="button-27" target="_new">Sign Up Now</a></th>
-                        <th><a href="https://rzp.io/i/8QkcOHC" class="button-27" target="_new">Sign Up Now</a></th>
-                        <th><a href="https://rzp.io/i/53pRO4f" class="button-27" target="_new">Sign Up Now</a></th>
-                        <th><a href="https://rzp.io/i/g3fDkki" class="button-27" target="_new">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/J4A0cvX" class="button-27" target="_new">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/XPNILTf" class="button-27" target="_new">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/ZRXXgdM" class="button-27" target="_new">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/lxWfDQp" class="button-27" target="_new">Sign Up Now</a></th>
                     </tr>
                     <tr>
                         <td>Amount <a href="#" class="_info" title="Work permit or visa must be provided upon joining process">?</a></td>
