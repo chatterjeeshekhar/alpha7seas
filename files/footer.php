@@ -9,11 +9,12 @@
                         <table width="100%">    
                             <tr>
                                 <td><input type="date" id="fDate" required></td>
-                                <td><input type="time" id="fTime" required></td>
+                                <td><select id="fTime" required><option value="">--Select Time--</option><option value="6am">6am</option><option value="7am">7am</option><option value="8am">8am</option><option value="9am">9am</option><option value="10am">10am</option><option value="10:30am">10:30am</option><option value="11am">11am</option><option value="11:30am">11:30am</option><option value="12pm">12pm</option><option value="12:30pm">12:30pm</option><option value="1pm">1pm</option><option value="1:30pm">1:30pm</option><option value="2pm">2pm</option><option value="2:30pm">2:30pm</option><option value="3pm">3pm</option><option value="3:30pm">3:30pm</option><option value="4pm">4pm</option><option value="5:30pm">5:30pm</option><option value="6:30pm">6:30pm</option><option value="7:30pm">7:30pm</option><option value="8:30pm">8:30pm</option><option value="9:30pm">9:30pm</option></select></td>
                             </tr>
                             <tr>
                                 <td><input type="text" id="fName" placeholder="Full Name" required></td>
-                                <td><input type="email" id="fEmail" placeholder="Email Address" required></td>
+                                <td><input type="date" id="fDate" required></td>
+                                
                             </tr>
                             <tr>
                                 <td><input type="tel" id="fPhone" placeholder="Phone Number" maxlength="10" required></td>
