@@ -13,7 +13,7 @@
                             </tr>
                             <tr>
                                 <td><input type="text" id="fName" placeholder="Full Name" required></td>
-                                <td><input type="date" id="fDate" required></td>
+                                <td><input type="email" id="fEmail" required></td>
                                 
                             </tr>
                             <tr>

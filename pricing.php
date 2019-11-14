@@ -140,6 +140,8 @@
                         <th>
                             <h3>Half-yearly</h3></th>
                         <th>
+                            <h3>Tri-Quarterly</h3></th>
+                        <th>
                             <h3>Yearly</h3></span></th>        
                     </tr>
                     <tr>
@@ -148,13 +150,15 @@
                         <th><a href="https://rzp.io/i/5SdtJlb" class="button-27" target="_new">Sign Up Now</a></th>
                         <th><a href="https://rzp.io/i/YLIoUgb" class="button-27" target="_new">Sign Up Now</a></th>
                         <th><a href="https://rzp.io/i/GNkVyKg" class="button-27" target="_new">Sign Up Now</a></th>
+                        <th><a href="https://rzp.io/i/GNkVyKg" class="button-27" target="_new">Sign Up Now</a></th>
                     </tr>
                     <tr>
                         <td>Amount <a href="#" class="_info" title="Work permit or visa must be provided upon joining process">?</a></td>
-                        <th><a>&#8377; 4,500</a></th>
-                        <th><a>&#8377; 11,000</a></th>
-                        <th><a>&#8377; 21,000</a></th>
-                        <th><a>&#8377; 36,000</a></th>
+                        <th><a>&#8377; 5,777</a></th>
+                        <th><a>&#8377; 13,777</a></th>
+                        <th><a>&#8377; 20,777</a></th>
+                        <th><a>&#8377; 25,777</a></th>
+                        <th><a>&#8377; 35,777</a></th>
                     </tr>
                     <tr>
                         <th class="pick-text">Pick a training plan</th>
@@ -176,10 +180,10 @@
                     </tr>
                     <tr>
                         <td>Amount <a href="#" class="_info" title="Work permit or visa must be provided upon joining process">?</a></td>
-                        <th><a>&#8377; 12,000</a></th>
-                        <th><a>&#8377; 33,000</a></th>
-                        <th><a>&#8377; 15,000</a></th>
-                        <th><a>&#8377; 40,000</a></th>
+                        <th><a>&#8377; 12,777</a></th>
+                        <th><a>&#8377; 33,777</a></th>
+                        <th><a>&#8377; 16,777</a></th>
+                        <th><a>&#8377; 44,777</a></th>
                     </tr>
                     <tr>
                         <th colspan="5"></th>
