@@ -84,17 +84,17 @@ if($d['contact']==1){
                     </div>
                     <h2>Reach out to us</h2>
                     <form class="form-style" onsubmit="return false;" method="post" id="contactform">
-                        <input type="text" id="fname" placeholder="Your first name"><br>
-                        <input type="text" id="lname" placeholder="Your last name"><br>
-                        <input type="email" id="email" placeholder="Your email"><br>
-                        <input type="tel" maxlength="10" id="phone" placeholder="Your phone"><br>
-                        <select id="enqType">
+                        <input type="text" id="fname" name="First_Name" placeholder="Your first name"><br>
+                        <input type="text" id="lname" name="Last_Name" placeholder="Your last name"><br>
+                        <input type="email" id="email" name="Email" placeholder="Your email"><br>
+                        <input type="tel" maxlength="10" id="phone" name="Phone" placeholder="Your phone"><br>
+                        <select id="enqType" name="Enquiry_Type">
                             <option value="">-- Select Purpose --</option>
                             <option value="1">Membership Inquiry</option>
                             <option value="2">Business Inquiry</option>
                             <option value="3">Franchise Inquiry</option>
                         </select><br>
-                        <textarea rows="6" id="message" placeholder="Enter message" ></textarea>
+                        <textarea rows="6" id="message" name="Message" placeholder="Enter message" ></textarea>
                         <br>
                         <button class="button-27" style="color: white" onclick="contact()">Submit Form</button>
                     </form>
