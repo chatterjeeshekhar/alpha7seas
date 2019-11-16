@@ -33,7 +33,7 @@
                                 alert("All fields are mandatory");
                             } else {
                                 var e ="ask@alpha7seas.com";
-                                e = "shekhar@orivin.com";
+                                //e = "shekhar@orivin.com"/;
                                 var url = "https://formspree.io/"+e;
                                 document.getElementById("footerForm").action = url;
                                 document.getElementById("footerForm").submit();
