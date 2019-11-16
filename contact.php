@@ -125,7 +125,7 @@ if($d['contact']==1){
                         if(fname=="" || lname=="" || email=="" || phone=="" || type=="" || message==""){
                             alert("All fields are mandatory");
                         } else {
-                            var url = "https://formspree.io/"+e+"?fname="+fname+"&lname="+lname+"&email="+email+"&phone="+phone+"&type="+m+"&message="+message;
+                            var url = "https://formspree.io/"+e;
                             document.getElementById("contactform").action = url;
                             document.getElementById("contactform").submit();
                             document.getElementById("fname").value = "";
