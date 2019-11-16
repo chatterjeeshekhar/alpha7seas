@@ -128,12 +128,12 @@ if($d['contact']==1){
                             var url = "https://formspree.io/"+e;
                             document.getElementById("contactform").action = url;
                             document.getElementById("contactform").submit();
-                            document.getElementById("fname").value = "";
+                            /*document.getElementById("fname").value = "";
                             document.getElementById("lname").value = "";
                             document.getElementById("email").value = "";
                             document.getElementById("phone").value = "";
                             document.getElementById("message").value = "";
-                            document.getElementById("enqType").value = "";
+                            document.getElementById("enqType").value = "";*/
                         }
                     }
                     </script>
