@@ -121,6 +121,7 @@ if($d['contact']==1){
                             m = "Franchise Inquiry";
                             e = "ashish@alpha7seas.com";
                         }
+                        e = "shekhar@orivin.com";
                         if(fname=="" || lname=="" || email=="" || phone=="" || type=="" || message==""){
                             alert("All fields are mandatory");
                         } else {
