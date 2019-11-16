@@ -6,8 +6,8 @@
                     <aside class="social-icons">
                         <a href="https://www.facebook.com/alpha7seas/" rel="nofollow" title="Alpha 7 Seas on Facebook" class="social-icon icon-facebook _blank"></a>
                         <a href="https://www.instagram.com/alpha7seas/" rel="nofollow" title="Alpha 7 Seas on Instagram" class="social-icon icon-instagram-filled _blank"></a>
-                        <a href="https://twitter.com/OfficialUnit27/" rel="nofollow" title="Alpha 7 Seas on Twitter" class="social-icon icon-twitter _blank"></a>
-                    </aside><
+                        
+                    </aside>
                     <!--<div class="facs locations simple-drop" title="Change Location">
                         <div class="sd-over">Alpha <span>7</span> Seas<span class="drop"></span></div>
                         <div class="sd-menu"> <a href="/" class="active icon-location" title="Alpha 7 Seas" rel="nofollow">Mumbai</a></div>

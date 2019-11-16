@@ -5,7 +5,7 @@
             <div class="inner-content-container">
                 <div class="col-d">
                     <h6>Book a trial</h6>
-                    <form onsubmit="return false;" class="form-style" id="footerForm">
+                    <form onsubmit="return false;" class="form-style" method="post" id="footerForm">
                         <table width="100%">    
                             <tr>
                                 <td><input type="date" id="fDate" required></td>

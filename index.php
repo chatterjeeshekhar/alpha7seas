@@ -66,6 +66,13 @@
    <br><br>
         <div class="light-down-arrow"></div>
     </section>
+    <aside class="testimonials content-container dark faux-mask">
+        <div class="inner-content-container">
+
+            </div>
+        <div class="light-down"></div>
+        <div class="light-down-arrow"></div>
+    </aside>
    
     <?php include 'files/footer.php'; ?>
 
